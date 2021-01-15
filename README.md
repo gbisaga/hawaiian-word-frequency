@@ -12,3 +12,4 @@ I also have done some comparison using the top 50k Italian words at https://gith
 # Files in repo
 * The top-X lists - with ordering and how many of each word were found in the corpus
 * hawaiian-texts.yaml - the entire corpus, currently totally 1377 documents. It contains all the text, but before any rules were applied. As you can see, it contains a significant quantity of English text. The basic rule applied was: whenever a word containing non-Hawaiian letters is found, start skipping words and keep skipping until 2 words with only Hawaiian letters is found. All punctuation, HTML entities, and kahako/ʻokina are also stripped. This file also contains (in the `exceptions` element at the front) the list of exceptions to the "non-Hawaiian letters" rule. These are words that are considered Hawaiian, even if they contain other letters, and optionally what word to map them to.
+* hawaiian-skipped.yaml - words that were skipped, along with their context.
