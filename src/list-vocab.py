@@ -275,7 +275,7 @@ with open(outfilename, 'w') as file:
     for el in sorted_words:
         if topx > 0 and cnt > topx: break
 
-        file.write(f"{cnt},{el['w']},{el['c']}\n")
+        file.write(f"{cnt},{el['w']},{el['c']},https://hilo.hawaii.edu/wehe/?q={el['w']}\n")
         cnt += 1
 
 skipfilename = 'hawaiian-skipped.yaml'
