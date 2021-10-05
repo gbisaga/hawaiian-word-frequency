@@ -15,26 +15,58 @@ import csv
 import shutil
 import urllib.parse
 
+controlWords = ["_skipped"]
+
 parser = argparse.ArgumentParser()
 parser.add_argument('--deck', help="deck file to write")
 parser.add_argument('--lookups', help="existing Duolingo lookups file")
-# parser.add_argument('--maxurls', help="maximum number of urls")
-# parser.add_argument('--pull', help="if true, pull data; default is process existing data file")
-# parser.add_argument('--top', help="only output top X words")
-# parser.add_argument('--out', required=True, help="top X words output file")
+parser.add_argument('--force', help="force write to dictionary file")
+parser.add_argument('--import', dest='doImport', help="file name to import from; JSON like you'd get from https://preview.duolingo.com/vocabulary/overview")
+parser.add_argument('--forcescan', help="force scan of Duolingo pages")
 args = parser.parse_args()
 
 deckFileName = args.deck
 lookupFileName = args.lookups
 chromeDriverLocation = 'C:/src/duolingo-tools/chromedriver.exe'
 headless = False
-jsonfile = 'dl-hawaiian-words.json'
+language = 'hawaiian'
+jsonfile = f'dl-{language}-words.json'
+doForce = args.force == 'true'
+importJSON = args.doImport
+forcescan = args.forcescan == 'true'
+
+importvocab = None
+if importJSON != None:
+    print(f'importing from {importJSON}')
+    with open(args.doImport, 'r') as f:
+        importvocab = json.loads(f.read())
+        if "vocab_overview" in importvocab and "language_string" in importvocab:
+            language = importvocab["language_string"].lower()
+        else:
+            print(f'Import file in bad format')
+            sys.exit(1)
+
+print(f'Language is {language}')
+
+# Import is JSON format you'd get from https://preview.duolingo.com/vocabulary/overview
 
 words = {}
 originalJSON = None
+skippedwords = []
 with open(jsonfile, 'r') as f:
     originalJSON = f.read()
     words = json.loads(originalJSON)
+    if "_skipped" in words:
+        skippedwords = words["_skipped"]
+    else:
+        words["_skipped"] = skippedwords
+
+if importvocab != None:
+    for vocab in importvocab["vocab_overview"]:
+        word = vocab["word_string"]
+        if word not in words and word not in skippedwords:
+            print(f'new word: {word}')
+            words[word] = { }
 
 lookups = {}
 if lookupFileName != None:
@@ -103,15 +135,12 @@ def urlquote(word):
 maxcount = 0
 count = 0
 for word in words:
+    if word in controlWords: continue
+    
+    # See if we need to look it up in Duolingo first
     info = words[word]
-    urlword = urlquote(word)
-    info["wehe"] = f"https://hilo.hawaii.edu/wehe/?q={stripsuffix(urlword)}"
-    info["google"] = f"https://translate.google.com/?sl=haw&tl=en&text={urlword}%0A&op=translate"
 
-    if 'duodef' not in info:
-        info['duodef'] = getdef(info['duo'])
-
-    if 'duo' not in info:
+    if 'duo' not in info or forcescan:
         print(f'lookup {word}')
         count += 1
         if maxcount != 0 and count > maxcount: break
@@ -119,11 +148,23 @@ for word in words:
         print(f'{word} => {url}')
         info['duo'] = url
 
+    urlword = urlquote(word)
+    info["wehe"] = f"https://hilo.hawaii.edu/wehe/?q={stripsuffix(urlword)}"
+    info["google"] = f"https://translate.google.com/?sl=haw&tl=en&text={urlword}%0A&op=translate"
+
+    if 'duodef' not in info:
+        info['duodef'] = getdef(info['duo'])
+
+    if "english" not in info or info["english"] == "":
+        info["english"] = info['duodef']
+
+    if "parts" not in info:
+        info["parts"] = ""
     # print(f'{word} => {defn}')
 
 # Write new JSON, but only if it's changed
 newJSON = json.dumps(words, indent=2)
-if originalJSON != newJSON:
+if doForce or (originalJSON != newJSON and importJSON == None):
     jsonbak = jsonfile.replace('.json', '.bak')
 
     print(f'backing up {jsonfile} to {jsonbak}')
@@ -133,13 +174,14 @@ if originalJSON != newJSON:
     with open(jsonfile, 'w') as f:
         f.write(newJSON)
 else:
-    print(f'no change, not saving to {jsonfile}')
+    print(f'no change or import without force, not saving to {jsonfile}')
 
 if deckFileName != None:
     print(f'writing deck to {deckFileName}')
     with open(deckFileName, 'w', encoding='utf-8', newline='') as f:
         csvwriter = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_ALL)
         for word in words:
+            if word in controlWords: continue
             info = words[word]
             csvwriter.writerow([
                word,

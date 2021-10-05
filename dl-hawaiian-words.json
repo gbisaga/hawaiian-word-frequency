@@ -1,4 +1,12 @@
 {
+  "_skipped": [
+    "ke",
+    "kona",
+    "h\u016bn\u014dai",
+    "h\u016bn\u014dna",
+    "pakini",
+    "huina"
+  ],
   "a": {
     "wehe": "https://hilo.hawaii.edu/wehe/?q=a",
     "english": "Of (a-class); and",
@@ -1111,12 +1119,12 @@
     "google": "https://translate.google.com/?sl=haw&tl=en&text=h%C5%AB%0A&op=translate",
     "duodef": "Wow, Woah!, Oh!"
   },
-  "h\u016b ka \u02bbono!": {
-    "wehe": "https://hilo.hawaii.edu/wehe/?q=h%C5%AB+ka+%CA%BBono%21",
+  "h\u016b ka \u02bbono": {
+    "wehe": "https://hilo.hawaii.edu/wehe/?q=h%C5%AB+ka+%CA%BBono",
     "english": "How delicious!",
     "parts": "",
     "duo": "https://preview.duolingo.com/dictionary/hw/translation/en/aMWrIGthIMq7b25vIQ==",
-    "google": "https://translate.google.com/?sl=haw&tl=en&text=h%C5%AB+ka+%CA%BBono%21%0A&op=translate",
+    "google": "https://translate.google.com/?sl=haw&tl=en&text=h%C5%AB+ka+%CA%BBono%0A&op=translate",
     "duodef": null
   },
   "hua \u02bbai": {
@@ -2167,12 +2175,12 @@
     "google": "https://translate.google.com/?sl=haw&tl=en&text=k%C5%AB%0A&op=translate",
     "duodef": "stop, stand, stew"
   },
-  "ma ke kua": {
-    "wehe": "https://hilo.hawaii.edu/wehe/?q=ma+ke+kua",
-    "english": "On one's back",
-    "parts": "",
+  "kua": {
+    "wehe": "https://hilo.hawaii.edu/wehe/?q=kua",
+    "english": "Back (part of body)",
+    "parts": "Ma ke kua = On one's back",
     "duo": "https://preview.duolingo.com/dictionary/hw/translation/en/bWEga2Uga3Vh",
-    "google": "https://translate.google.com/?sl=haw&tl=en&text=ma+ke+kua%0A&op=translate",
+    "google": "https://translate.google.com/?sl=haw&tl=en&text=kua%0A&op=translate",
     "duodef": null
   },
   "k\u016b\u02bbai": {
@@ -3359,12 +3367,12 @@
     "google": "https://translate.google.com/?sl=haw&tl=en&text=p%C4%81%0A&op=translate",
     "duodef": "dish, plate, dishes"
   },
-  "p\u0101 kini": {
-    "wehe": "https://hilo.hawaii.edu/wehe/?q=p%C4%81+kini",
+  "p\u0101kini": {
+    "wehe": "https://hilo.hawaii.edu/wehe/?q=p%C4%81kini",
     "english": "Tin basin, bucket",
     "parts": "",
     "duo": "https://preview.duolingo.com/dictionary/hw/translation/en/cMSBIGtpbmk=",
-    "google": "https://translate.google.com/?sl=haw&tl=en&text=p%C4%81+kini%0A&op=translate",
+    "google": "https://translate.google.com/?sl=haw&tl=en&text=p%C4%81kini%0A&op=translate",
     "duodef": null
   },
   "p\u0101 mea \u02bbai": {
@@ -3545,7 +3553,7 @@
   },
   "palala": {
     "wehe": "https://hilo.hawaii.edu/wehe/?q=palala",
-    "english": "Barrel",
+    "english": "Barrel; brother (like tita)",
     "parts": "",
     "duo": "https://preview.duolingo.com/dictionary/Hawaiian/palala/cbbe573ddbc2adddaf15197a494b178a",
     "google": "https://translate.google.com/?sl=haw&tl=en&text=palala%0A&op=translate",
@@ -3737,7 +3745,7 @@
   },
   "piha makahiki pa\u02bba male": {
     "wehe": "https://hilo.hawaii.edu/wehe/?q=piha+makahiki+pa%CA%BBa+male",
-    "english": "Full year marriage bond",
+    "english": "Wedding anniversary",
     "parts": "",
     "duo": "https://preview.duolingo.com/dictionary/hw/translation/en/cGloYSBtYWthaGlraSBwYcq7YSBtYWxl",
     "google": "https://translate.google.com/?sl=haw&tl=en&text=piha+makahiki+pa%CA%BBa+male%0A&op=translate",
@@ -4398,5 +4406,53 @@
     "duo": "https://preview.duolingo.com/dictionary/Hawaiian/woela/12ab65c47a1fcc4fbaa52d54a237387d",
     "google": "https://translate.google.com/?sl=haw&tl=en&text=woela%0A&op=translate",
     "duodef": "vowels, vowel"
+  },
+  "n\u0101u": {
+    "english": "Yours (a-class)",
+    "parts": "",
+    "duo": "https://preview.duolingo.com/dictionary/Hawaiian/k%C4%81u/eb7fa02e80a160c6c9a8ac7353b61375?query=n%C4%81u",
+    "wehe": "https://hilo.hawaii.edu/wehe/?q=n%C4%81u",
+    "google": "https://translate.google.com/?sl=haw&tl=en&text=n%C4%81u%0A&op=translate",
+    "duodef": "your"
+  },
+  "\u02bb\u014dpala": {
+    "english": "broils, grill, barbecues",
+    "parts": "",
+    "duo": "https://preview.duolingo.com/dictionary/Hawaiian/k%C5%8D%CA%BBala/2f2c5435d89d3595be11689ebec111b5?query=%CA%BB%C5%8Dpala",
+    "wehe": "https://hilo.hawaii.edu/wehe/?q=%CA%BB%C5%8Dpala",
+    "google": "https://translate.google.com/?sl=haw&tl=en&text=%CA%BB%C5%8Dpala%0A&op=translate",
+    "duodef": "broils, grill, barbecues"
+  },
+  "na": {
+    "english": "By, for, belonging to (a-class)",
+    "parts": "",
+    "duo": "https://preview.duolingo.com/dictionary/hw/translation/en/bmE=",
+    "wehe": "https://hilo.hawaii.edu/wehe/?q=na",
+    "google": "https://translate.google.com/?sl=haw&tl=en&text=na%0A&op=translate",
+    "duodef": ""
+  },
+  "k\u012bloi": {
+    "english": "To throw out, empty trash (as in computer program)",
+    "parts": "",
+    "duo": "https://preview.duolingo.com/dictionary/hw/translation/en/a8SrbG9p",
+    "wehe": "https://hilo.hawaii.edu/wehe/?q=k%C4%ABloi",
+    "google": "https://translate.google.com/?sl=haw&tl=en&text=k%C4%ABloi%0A&op=translate",
+    "duodef": null
+  },
+  "hula": {
+    "english": "hula, dance hula",
+    "parts": "",
+    "duo": "https://preview.duolingo.com/dictionary/Hawaiian/hula/7ea3135df165a990356168fb027f00bf",
+    "wehe": "https://hilo.hawaii.edu/wehe/?q=hula",
+    "google": "https://translate.google.com/?sl=haw&tl=en&text=hula%0A&op=translate",
+    "duodef": "hula, dance hula"
+  },
+  "u\u02bbi": {
+    "duo": "https://preview.duolingo.com/dictionary/Hawaiian/u%CA%BBi/d7b59f3865cbde87860ae3f217740f5c",
+    "wehe": "https://hilo.hawaii.edu/wehe/?q=u%CA%BBi",
+    "google": "https://translate.google.com/?sl=haw&tl=en&text=u%CA%BBi%0A&op=translate",
+    "duodef": "beautiful, pretty, (is) handsome",
+    "english": "beautiful, pretty, (is) handsome",
+    "parts": ""
   }
 }
