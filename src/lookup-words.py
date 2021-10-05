@@ -140,6 +140,7 @@ for word in words:
     # See if we need to look it up in Duolingo first
     info = words[word]
 
+    changedduo = False
     if 'duo' not in info or forcescan:
         print(f'lookup {word}')
         count += 1
@@ -147,12 +148,13 @@ for word in words:
         url = lookup(word)
         print(f'{word} => {url}')
         info['duo'] = url
+        changedduo = True
 
     urlword = urlquote(word)
     info["wehe"] = f"https://hilo.hawaii.edu/wehe/?q={stripsuffix(urlword)}"
     info["google"] = f"https://translate.google.com/?sl=haw&tl=en&text={urlword}%0A&op=translate"
 
-    if 'duodef' not in info:
+    if 'duodef' not in info or changedduo:
         info['duodef'] = getdef(info['duo'])
 
     if "english" not in info or info["english"] == "":
