@@ -1,4 +1,5 @@
 *.bak
 foo*.*
 *.tmp
+*.tmp.*
 *-overview.json

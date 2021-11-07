@@ -21,7 +21,7 @@ controlWords = ["_skipped"]
 parser = argparse.ArgumentParser()
 parser.add_argument('--export', help="CSV export/deck file to write")
 parser.add_argument('--lookups', help="existing Duolingo lookups file")
-parser.add_argument('--lookup', help="if true (default), lookup in Duolingo; usually used with --import")
+parser.add_argument('--lookup', help="if true (default unless importing, when default is false), lookup in Duolingo")
 parser.add_argument('--force', help="force write to dictionary file")
 parser.add_argument('--import', dest='doImport', help="file name to import from; JSON like you'd get from https://preview.duolingo.com/vocabulary/overview")
 parser.add_argument('--forcescan', help="force scan of Duolingo pages")
@@ -31,6 +31,7 @@ parser.add_argument('--delay', help="delay between Duolingo lookups; default 10 
 parser.add_argument('--lemma', help="if true (default false), only use lemma (e.g. infinitive) forms for import and/or export")
 parser.add_argument('--makelemma', help="if true (default false), convert all vocab into only lemma forms (experimental)")
 parser.add_argument('--singlelookup', help="if passed, lookup a single definition in Duolingo")
+parser.add_argument('--countonly', help="if passed, only count words; can be 'true' (requires language) or a filename to count in")
 args = parser.parse_args()
 
 # Note: not stripping 'u' because of all the non-verbs that end in that letter
@@ -88,8 +89,17 @@ languagesInfo = {
         "name": "French",
         "rowitems": ["english", "skill", "duo", "parts", "google"],
         "makeLemma": lambda word, info: makeConjugatedLemma(word, info)
+    },
+    "es": {
+        "tla": "es", 
+        "name": "Spanish",
+        "rowitems": ["english", "skill", "duo", "parts", "google"],
+        "makeLemma": lambda word, info: makeConjugatedLemma(word, info)
     }
 }
+
+def makeMainFileName(language):
+    return f'dl-{language.lower()}-words.json'
 
 exportFileName = args.export
 lookupFileName = args.lookups
@@ -103,14 +113,41 @@ else:
     languageInfo = languagesInfo[languageKey]
 
 doForce = args.force == 'true'
+doImport = args.doImport != None
 importJSON = args.doImport
 forcescan = args.forcescan == 'true'
 language = languageInfo["name"]
 maxcount = 0 if args.maxcount == None else int(args.maxcount)
 delay = int(args.delay) if args.delay != None else 10
 lemma = args.lemma == 'true'
-doLookup = args.lookup != 'false'
+doLookup = args.lookup == 'true' if doImport else args.lookup != 'false'
 makelemma = args.makelemma == 'true'
+countonlyfile = None
+if args.countonly != None and args.countonly != 'false':
+    if args.countonly == 'true':
+        # Have to pass a specific language
+        if args.language == None:
+            print(f'--countonly true requires --language to be set')
+            sys.exit(1)
+        # Just use the file name
+        countonlyfile = makeMainFileName(language)
+    else:
+        if os.path.exists(args.countonly):
+            countonlyfile = args.countonly
+        else:
+            print(f'{args.countonly}: file not found')
+            sys.exit(1)
+
+if countonlyfile != None:
+    print(f'countonlyfile = {countonlyfile}')
+    with open(countonlyfile, 'r') as f:
+        words = json.loads(f.read())
+    total = 0
+    for word in words:
+        if word not in controlWords:
+            total += 1
+    print(f'Total words: {total}')
+    sys.exit(0)
 
 importvocab = None
 if importJSON != None:
@@ -131,14 +168,13 @@ if importJSON != None:
 googleLanguageKey = languageInfo["tla"]
 rowitems = languageInfo["rowitems"]
 
-jsonfile = f'dl-{language.lower()}-words.json'
+jsonfile = makeMainFileName(language)
 
 if makelemma and languageInfo["makeLemma"] == None:
     print(f'cannot do --makelemma for {language}')
     sys.exit(1)
 
-print(f'Language is: {language}, makelemma={makelemma}, key={languageKey}{f", scanning {maxcount} max records" if maxcount != 0 else ""}')
-
+print(f'Language is: {language}, makelemma={makelemma}, doLookup={doLookup}, key={languageKey}{f", scanning {maxcount} max records" if maxcount != 0 else ""}')
 # Import is JSON format you'd get from https://preview.duolingo.com/vocabulary/overview
 
 words = {}
@@ -186,8 +222,10 @@ if importvocab != None:
                 words[word]["skill"] = vocab["skill_url_title"]
             if vocab.get("gender") != "" and vocab.get("gender") != None:
                 words[word]["gender"] = vocab["gender"]
-            if vocab.get("rel") != "" and vocab.get("gender") != None:
-                words[word]["gender"] = vocab["gender"]
+            if vocab.get("lexeme_id") != "" and vocab.get("lexeme_id") != None:
+                words[word]["lexeme_id"] = vocab["lexeme_id"]
+            if vocab.get("related_lexemes") != "" and vocab.get("related_lexemes") != None:
+                words[word]["related_lexemes"] = vocab["related_lexemes"]
 
 if len(newWordsImported) > 0:
     print(f'new words imported: {newWordsImported}')
@@ -263,11 +301,14 @@ def lookup(word):
     openbrowser()
     browser.get(baseurl)
     els = browser.find_elements_by_css_selector('input[data-test=dictionary-search-input]')
-    textfield = els[0]
-    # print(textfield)
-    textfield.send_keys(word)
-    lookupbutton = browser.find_elements_by_css_selector('button[data-test=dictionary-translate]')[0]
-    lookupbutton.click()
+    try:
+        textfield = els[0]
+        # print(textfield)
+        textfield.send_keys(word)
+        lookupbutton = browser.find_elements_by_css_selector('button[data-test=dictionary-translate]')[0]
+        lookupbutton.click()
+    except:
+        return TOO_MANY_REQUESTS
     try:
         element = browser.find_element(By.XPATH, "//h2[text()='Translation']")
         return browser.current_url
@@ -285,7 +326,7 @@ def stripsuffix(word):
 def urlquote(word):
     return urllib.parse.quote_plus(word)
 
-def handleLanguageSpecific(info, word, languageKey):
+def handleLanguageSpecific(info, urlword, languageKey):
     if languageKey == 'hw':
         info["wehe"] = f"https://hilo.hawaii.edu/wehe/?q={stripsuffix(urlword)}"
 
@@ -304,7 +345,7 @@ def hydrateInfo(info):
         changedduo = True
 
     urlword = urlquote(word)
-    handleLanguageSpecific(info, word, languageKey)
+    handleLanguageSpecific(info, urlword, languageKey)
 
     info["google"] = f"https://translate.google.com/?sl={googleLanguageKey}&tl=en&text={urlword}%0A&op=translate"
 
@@ -326,7 +367,7 @@ if makelemma:
         info = words[word]
 
         if word in controlWords:
-            newwords[lemmaform] = json.loads(json.dumps(info))
+            newwords[word] = json.loads(json.dumps(info))
             continue
 
         lemmaform = languageInfo["makeLemma"](word, info)
@@ -367,6 +408,7 @@ if makelemma:
         for word in newwords:
             info = newwords[word]
             if word not in words: added[word] = info
+        print(f'word count old {len(words)} new {len(newwords)}')
         print(f'added: {added.keys()}')
         print(f'removed: {removed.keys()}')
         print(f'changed:')
