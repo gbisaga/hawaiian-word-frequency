@@ -423,10 +423,17 @@ if makelemma:
         sys.exit(0)
     words = newwords
 else:
-    # Don't read from deck by default: use jsonfile, already read into `words`
-    # with io.open(csvfileName, 'r', newline='\n', encoding='UTF-8') as csvfile:
-    #     csvreader = csv.reader(csvfile, delimiter=',', quotechar='"')
-    #     for row in csvreader:
+    # Go thru the words and look them up. First print an estimate of how many we'll
+    # be looking up.
+    estimate = 0
+    for word in words:
+        if word in controlWords: continue
+        info = words[word]
+        if 'duodef' not in info:
+            estimate += 1
+    if maxcount>0 and estimate>maxcount:
+        estimate = maxcount
+    print(f'Looking up an estimated {estimate} words')
     count = 0
     for word in words:
         if word in controlWords: continue

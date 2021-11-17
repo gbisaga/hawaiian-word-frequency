@@ -1705,7 +1705,7 @@
   "h\u016bn\u014dai k\u0101ne": {
     "wehe": "https://hilo.hawaii.edu/wehe/?q=h%C5%ABn%C5%8Dai+k%C4%81ne",
     "english": "Father in law",
-    "parts": "",
+    "parts": "h\u016bn\u014dai = Mother/father-in-law vs h\u016bn\u014dna = Son/daughter-in-law",
     "duo": "https://preview.duolingo.com/dictionary/hw/translation/en/aMWrbsWNYWkga8SBbmU=",
     "google": "https://translate.google.com/?sl=haw&tl=en&text=h%C5%ABn%C5%8Dai+k%C4%81ne%0A&op=translate",
     "duodef": null
@@ -1713,7 +1713,7 @@
   "h\u016bn\u014dai wahine": {
     "wehe": "https://hilo.hawaii.edu/wehe/?q=h%C5%ABn%C5%8Dai+wahine",
     "english": "Mother in law",
-    "parts": "",
+    "parts": "h\u016bn\u014dai = Mother/father-in-law vs h\u016bn\u014dna = Son/daughter-in-law",
     "duo": "https://preview.duolingo.com/dictionary/hw/translation/en/aMWrbsWNYWkgd2FoaW5l",
     "google": "https://translate.google.com/?sl=haw&tl=en&text=h%C5%ABn%C5%8Dai+wahine%0A&op=translate",
     "duodef": null
@@ -1721,7 +1721,7 @@
   "h\u016bn\u014dna k\u0101ne": {
     "wehe": "https://hilo.hawaii.edu/wehe/?q=h%C5%ABn%C5%8Dna+k%C4%81ne",
     "english": "Son in law",
-    "parts": "",
+    "parts": "h\u016bn\u014dai = Mother/father-in-law vs h\u016bn\u014dna = Son/daughter-in-law",
     "duo": "https://preview.duolingo.com/dictionary/hw/translation/en/aMWrbsWNbmEga8SBbmU=",
     "google": "https://translate.google.com/?sl=haw&tl=en&text=h%C5%ABn%C5%8Dna+k%C4%81ne%0A&op=translate",
     "duodef": null
@@ -1729,7 +1729,7 @@
   "h\u016bn\u014dna wahine": {
     "wehe": "https://hilo.hawaii.edu/wehe/?q=h%C5%ABn%C5%8Dna+wahine",
     "english": "Daughter in law",
-    "parts": "",
+    "parts": "h\u016bn\u014dai = Mother/father-in-law vs h\u016bn\u014dna = Son/daughter-in-law",
     "duo": "https://preview.duolingo.com/dictionary/hw/translation/en/aMWrbsWNbmEgd2FoaW5l",
     "google": "https://translate.google.com/?sl=haw&tl=en&text=h%C5%ABn%C5%8Dna+wahine%0A&op=translate",
     "duodef": null
@@ -1942,7 +1942,7 @@
   "kahului": {
     "wehe": "https://hilo.hawaii.edu/wehe/?q=kahului",
     "english": "Contest (esp championship match)",
-    "parts": "",
+    "parts": "Cf ka hulu (feather, which you might win/grow in a contest)",
     "duo": "https://preview.duolingo.com/dictionary/Hawaiian/kahului/529ff62740abc9ced06d42e5bdb2e0f2",
     "google": "https://translate.google.com/?sl=haw&tl=en&text=kahului%0A&op=translate",
     "duodef": "championship",
@@ -3321,7 +3321,7 @@
   "lanakila": {
     "wehe": "https://hilo.hawaii.edu/wehe/?q=lanakila",
     "english": "Triumph",
-    "parts": "",
+    "parts": "Cf lana (floating) + kila (strong, stout < steel)",
     "duo": "https://preview.duolingo.com/dictionary/Hawaiian/lanakila/609e430b7de192fb89a8888912ad8d5a",
     "google": "https://translate.google.com/?sl=haw&tl=en&text=lanakila%0A&op=translate",
     "duodef": "triumph",
@@ -4930,8 +4930,8 @@
   },
   "palala": {
     "wehe": "https://hilo.hawaii.edu/wehe/?q=palala",
-    "english": "Barrel; brother (like tita)",
-    "parts": "",
+    "english": "Barrel; brother",
+    "parts": "General, like tita",
     "duo": "https://preview.duolingo.com/dictionary/Hawaiian/palala/cbbe573ddbc2adddaf15197a494b178a",
     "google": "https://translate.google.com/?sl=haw&tl=en&text=palala%0A&op=translate",
     "duodef": "brother",

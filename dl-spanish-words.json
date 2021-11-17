@@ -5,10 +5,10 @@
     "lexeme_id": "bb9ed41f26dbd994eac92434c0d42d2d",
     "related_lexemes": [
       "0c8c6f2d57dbaaae575d7fbd7e9a6003",
+      "dbe6b1b04ed9f89e85842808ca8d1d39",
       "1e29f212574628ce4cd6a09f449ce4ee",
       "83971c2f4bb09a67136e70bca7122df4",
       "7e0d0ce6a92ad63eccbccba78d181842",
-      "66030834dcc0bad5d3fc5370a1058dd8",
       "c5e4f3cd07308a0d429197bedb0f72cb"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=trabajar%0A&op=translate",
@@ -34,8 +34,10 @@
       "9472f9e15803239afface74d79609726",
       "8564dd239bdb86e988142a7f4873a3b7",
       "391cc98c1cb2d99c0d708e2f88235f30",
+      "6a8e3377882b7a989a1b8f2692a5cade",
       "81e4c4758a1f883a01dcf9cc10d0dc64",
       "d5e721a6bd7cfedaeece11e85c2e7cb4",
+      "fca229565e535d533f2208db3a60bb0e",
       "af9dcd91daa4064a9eae4e2ee8ec44d9",
       "8d2d75eda30c64e1d1c7a3addbda04fd",
       "d9bc85be0d8208320ae2d1d822cf3c3b",
@@ -80,15 +82,15 @@
       "82405a988fe6d883b8df7297873c5e5a",
       "c5f9e23319bd9029c19b099a97036be3",
       "50629ad6c891b5b3f258b2fdb0e3cf82",
+      "a96439c6627d7b2447435b1a5f32eade",
       "483f8bb2614072287fe1a39eb15ba612",
       "967bfdb9d5180c33cfb21dca82034e85",
       "d04809f4a8b600d8acf6ca8e944dde69",
       "7c5f7481bd058705944beb130edc5882",
       "3d69e78dafc9bb33f926626a63c580bb",
+      "84347591472c0deb4b61eab4b788f503",
       "ab724af62c7e36266ef3b66766d47489",
       "22e3fc5f089cf47dae927dfddcce2844",
-      "1f3913c124a1e1684f525887a9ba796e",
-      "a96439c6627d7b2447435b1a5f32eade",
       "fae183cfa6a19d79e500f55f55775e68"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=le%0A&op=translate",
@@ -126,6 +128,7 @@
     "lexeme_id": "888a48b761c815409973fae604c68b5c",
     "related_lexemes": [
       "a8576170b08c7f2d137aae9301ef2a6e",
+      "4b68c4029e03d97319f79eb69e75480a",
       "3f30bd8f537293af008a1b1471c47a9a",
       "e50e77b90174bc11db821e4c2a583e00"
     ],
@@ -160,7 +163,9 @@
     "skill": "Nature",
     "lexeme_id": "7c4bc6e1c9735749219fc9320b6b7c64",
     "related_lexemes": [
-      "c1406d8dc8b2d1795ab158cfb096d7ee"
+      "c1406d8dc8b2d1795ab158cfb096d7ee",
+      "bffdb70593d0e13ef2d0b5c914ce951e",
+      "c279fade54dac2419810d52be9e4b49d"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=encantar%0A&op=translate",
     "parts": "",
@@ -199,8 +204,8 @@
     "lexeme_id": "0f4f9c3846cfb1c25afb44d5e46642b8",
     "related_lexemes": [
       "d1358d6ec4919c6748b938d3209ec47b",
-      "f8ba76f1847b8d47b9d9f9c44043e6ae",
       "008d37d0362cbb18ee14c762b00a5c11",
+      "f8ba76f1847b8d47b9d9f9c44043e6ae",
       "9921ceee2d84be9ce2f8cf58cd2f3411",
       "add67339f081a9e994e3b58c15b5633c"
     ],
@@ -241,12 +246,13 @@
     "related_lexemes": [
       "3273d848096787406516496d99e8b3d4",
       "25ca4c249bc5735c22dbf644b0565543",
+      "c55fdb77913c2e95a223c0d95df57201",
       "80b74f0c8c80573914f2d97c36558977",
-      "1ad6879421e89cbdd6059f12f2a46089",
+      "4a61f84f4e02ba2035559440f42d97c0",
       "d1abde44634da97861c5ace7c710eee5",
       "483615e600687726cbb7e10adccb5b5c",
+      "1ad6879421e89cbdd6059f12f2a46089",
       "3f393764eb5bbb46f04d43f461e95e59",
-      "4a61f84f4e02ba2035559440f42d97c0",
       "ca654a5855afacd3c7f6b4ab98390ae2",
       "5dad7d0147f2e9d87977578c29d9369b"
     ],
@@ -313,7 +319,8 @@
       "c8f9641e2ee07ad48db4dc5227b9f59d",
       "c9d767195a090d6a24a17b9eba849cf6",
       "57ddf559d036912b090b03b1eaf3264e",
-      "cff478ed99e8f33b79c9d1f6ae40d142"
+      "cff478ed99e8f33b79c9d1f6ae40d142",
+      "ebee247f50458088bd15f8f080710b2f"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=venir%0A&op=translate",
     "parts": "",
@@ -354,15 +361,15 @@
       "82405a988fe6d883b8df7297873c5e5a",
       "c5f9e23319bd9029c19b099a97036be3",
       "50629ad6c891b5b3f258b2fdb0e3cf82",
+      "a96439c6627d7b2447435b1a5f32eade",
       "483f8bb2614072287fe1a39eb15ba612",
       "967bfdb9d5180c33cfb21dca82034e85",
       "d04809f4a8b600d8acf6ca8e944dde69",
       "7c5f7481bd058705944beb130edc5882",
       "3d69e78dafc9bb33f926626a63c580bb",
+      "84347591472c0deb4b61eab4b788f503",
       "ab724af62c7e36266ef3b66766d47489",
       "22e3fc5f089cf47dae927dfddcce2844",
-      "1f3913c124a1e1684f525887a9ba796e",
-      "a96439c6627d7b2447435b1a5f32eade",
       "fae183cfa6a19d79e500f55f55775e68"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=ellas%0A&op=translate",
@@ -428,8 +435,8 @@
       "ce6f134a1111d5d119ecd986653ae4ee",
       "dbef5af271b1237970ef009a380ff67f",
       "3e626f10e6b7f959350edc3051baefd2",
-      "2dbc505b0e58f51db589fd0c41f319fb",
-      "8212236d3076211d2a7d965607a0c72a"
+      "8212236d3076211d2a7d965607a0c72a",
+      "2dbc505b0e58f51db589fd0c41f319fb"
     ],
     "infinitive": "comprar",
     "google": "https://translate.google.com/?sl=es&tl=en&text=comprar%0A&op=translate",
@@ -468,10 +475,14 @@
     "lexeme_id": "47d5960af63b9b53d55a3a97acefed70",
     "related_lexemes": [
       "758902fc71e5eba8019891c2db4eff3c",
+      "7bf404a41dbd7727dd18e743328dd479",
+      "adc63fbefc3c0bc1e3057974bbb7b958",
       "77fdd4c5d02d108c0bb78bd2050db377",
       "7784e336b986a966826eefceec3c3742",
       "e3b1263e024046689a7db241dd05e0c5",
-      "7bf404a41dbd7727dd18e743328dd479",
+      "b89bf6f5cf57b126a74d0a1c1dba9c81",
+      "9e148d3e86f2810144004371cdacf69c",
+      "dd2e619efd15c98202f1001333812ead",
       "ecbe6d60b774347b5c7b8289b4fa5d56",
       "239b5d8455e271225262683461b59a09"
     ],
@@ -486,7 +497,10 @@
     "skill": "BasicInfo",
     "lexeme_id": "0c4c7eebfe93300f78c3d648f14dd68c",
     "related_lexemes": [
-      "895ef0baef58695515d09ea93b6db828"
+      "321ca3acf9241898a718a04c3531533f",
+      "f65a522bbecabf9d4309359437c3b439",
+      "895ef0baef58695515d09ea93b6db828",
+      "e7db335178541dc778514cdfba5eecfa"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=saber%0A&op=translate",
     "parts": "",
@@ -562,6 +576,7 @@
     "lexeme_id": "e2114555f866a593ee21c6cdcc4fb549",
     "related_lexemes": [
       "25c7fb80121d4386acf8b72218b4b421",
+      "d9e4f5493df3a8ea27340c4429a60e98",
       "fa60a2189a5a45c56d296ca6a6582ac2"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=bailar%0A&op=translate",
@@ -594,9 +609,11 @@
     "english": "in, within, inside"
   },
   "un poco": {
-    "skill": "Emotions",
-    "lexeme_id": "580086e3021b8b4fa0b06559c78de8fb",
-    "related_lexemes": [],
+    "skill": "Choices",
+    "lexeme_id": "35f35090c991362862bcfff9fcfa1725",
+    "related_lexemes": [
+      "580086e3021b8b4fa0b06559c78de8fb"
+    ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=un+poco%0A&op=translate",
     "parts": "",
     "duo": "https://preview.duolingo.com/dictionary/Spanish/un-poco/ca8890b992c8b891eb461959e240bf09",
@@ -669,9 +686,9 @@
       "3e43e327056b17e3751e7ac9e32bd241",
       "c7ac2d00189e4a89b9377313863cbf39",
       "f7a9dc0e47916e4710c674f387cc5013",
-      "8f740b35733ca25c36d595d8e55dd509",
       "ede0df02ded45d9a588545571307c8f8",
       "ec19ec3ad98321b5a9ffe54796aeb3e8",
+      "8f740b35733ca25c36d595d8e55dd509",
       "fe4dc0b130ed92007bda16ab8c57839f",
       "f82e087c313980ee5911a7abc3afa7a1"
     ],
@@ -733,12 +750,16 @@
       "f3ec502e5b9ca28d31b1478341f7bb3d",
       "958e352cb64f78feed5afb5b95657dbe",
       "79045a5d49ad360f896f17a271a75250",
+      "90acdbbf35f211af2c596ffd6e3c2bc3",
       "84e18e86c58e8e61d687dfa06b3aaa36",
+      "04e0d1f39c374f6031401e5da379e0de",
+      "90eb6f3c35c3c3a79fab018f2f590555",
       "a5b341607943845ef69a88d8354fe714",
       "2192ba213de5aaa68de397de7df8d3ea",
       "ded3d40ec5648c421f9e1fd15334c281",
       "fda174b61b0ed5e2eaa6deceae37f56b",
       "3de72f2673e3e5d916e62339cb03bd34",
+      "2c4294bcad2d90b486c6e8b1642a9c47",
       "3f17c09c623bdfcde697e996a7512184",
       "a2677be5119dd659378f2a399c664840",
       "54ed4cf41cbbae2ce97ddda174b5be84"
@@ -760,15 +781,15 @@
       "82405a988fe6d883b8df7297873c5e5a",
       "c5f9e23319bd9029c19b099a97036be3",
       "50629ad6c891b5b3f258b2fdb0e3cf82",
+      "a96439c6627d7b2447435b1a5f32eade",
       "483f8bb2614072287fe1a39eb15ba612",
       "967bfdb9d5180c33cfb21dca82034e85",
       "d04809f4a8b600d8acf6ca8e944dde69",
       "7c5f7481bd058705944beb130edc5882",
       "3d69e78dafc9bb33f926626a63c580bb",
+      "84347591472c0deb4b61eab4b788f503",
       "ab724af62c7e36266ef3b66766d47489",
       "22e3fc5f089cf47dae927dfddcce2844",
-      "1f3913c124a1e1684f525887a9ba796e",
-      "a96439c6627d7b2447435b1a5f32eade",
       "fae183cfa6a19d79e500f55f55775e68"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=ustedes%0A&op=translate",
@@ -829,12 +850,12 @@
     "lexeme_id": "0f5f0592758dcd5bc365b32717abc022",
     "related_lexemes": [
       "334bb14b7b0a64be0cfc5bd6d9dded7d",
+      "7055400a2a2fcfb92f32a821d11306ad",
       "3129a13da960f1986c61f78f82486607",
       "a42fa2aa85652447f1940088be251151",
       "ddf66cb7a44916fe9a12bbbde23fd7ca",
       "3d5abcf14dd32b19f2861922377b4db0",
       "e47f5be47ef3f123aa3bfc81a85cc67e",
-      "7055400a2a2fcfb92f32a821d11306ad",
       "6dc0c9f86b4e819adf03469985f04702",
       "5871ea06c13b2dbeacd11e595a9a0bad",
       "d19f2b911c1f3aa37e879f2ab26b48c5",
@@ -867,15 +888,15 @@
       "82405a988fe6d883b8df7297873c5e5a",
       "c5f9e23319bd9029c19b099a97036be3",
       "50629ad6c891b5b3f258b2fdb0e3cf82",
+      "a96439c6627d7b2447435b1a5f32eade",
       "483f8bb2614072287fe1a39eb15ba612",
       "967bfdb9d5180c33cfb21dca82034e85",
       "d04809f4a8b600d8acf6ca8e944dde69",
       "7c5f7481bd058705944beb130edc5882",
       "3d69e78dafc9bb33f926626a63c580bb",
+      "84347591472c0deb4b61eab4b788f503",
       "ab724af62c7e36266ef3b66766d47489",
       "22e3fc5f089cf47dae927dfddcce2844",
-      "1f3913c124a1e1684f525887a9ba796e",
-      "a96439c6627d7b2447435b1a5f32eade",
       "fae183cfa6a19d79e500f55f55775e68"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=nos%0A&op=translate",
@@ -916,12 +937,12 @@
     "lexeme_id": "c3e88194fb0c8f8661783abaf49f4994",
     "related_lexemes": [
       "95d2b92025cd246dca2c0c9181fb30f1",
-      "683712d881038b873bf2ab4ca290a6e4",
       "5ec94b17c5ab3ff0b4c2f69aae1b6922",
       "8f727e3578a00acf22a54d7b3e788bbd",
-      "dee38281e88b02eba9bd3d419a01f758",
-      "0a3a7eff5adffa87a3bce9f43cd2bf8d",
       "31a59590789121364c98cf423e868d19",
+      "683712d881038b873bf2ab4ca290a6e4",
+      "0a3a7eff5adffa87a3bce9f43cd2bf8d",
+      "dee38281e88b02eba9bd3d419a01f758",
       "e4e2a3b534e11211e8035ab48a5fcb82",
       "7ca59979d0c746c63d39ab85db3ef306"
     ],
@@ -976,11 +997,12 @@
     "skill": "Travel-2",
     "lexeme_id": "43e4d4c7ca267895dfb03fdd67a86bee",
     "related_lexemes": [
+      "3abec7c0cc6f5f85a534ed527f751cc2",
       "6e85823a143d0e7f111f72be2770e7c3",
       "0ffe2de72982db0613b6a4e7f6d46757",
       "077caee990821f81bdf2980940519bbb",
       "7962225495ffe6bca656fb1c351d23db",
-      "7dbe1c575ded31ef728234040840d509",
+      "396ee4b4a5a5bc76708c98ae54e30085",
       "014314dfea378ef59603a9a18dc712fb"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=usar%0A&op=translate",
@@ -1035,11 +1057,20 @@
     "skill": "Work",
     "lexeme_id": "0d82cdf5717de174c504e901ba8597b1",
     "related_lexemes": [
+      "1f837f719cc34a8e217b423888eb6619",
+      "ed9b46091b4b32ea0a5957e668dc3a81",
       "47692db0120d603dc27a1881fe41c5e8",
+      "ce0484f1813385c5661c93b39baa83f6",
       "d6e1fec0bdd8524c85b360010522b7ed",
-      "28de9c918b4093df7f88896e37213b27",
+      "015f1c9b5b18e4c39ee77d46fb8c5088",
+      "748c42d9d0001c414abc0b221bbece4e",
+      "10b64d240b52a86e4e3016045fe2bbf5",
+      "d99bf79274b92b30cac85ce210c2fdba",
+      "83250043f9817d657a87c5d6bf777aea",
       "a296a278d774a2987ef34a4a463cbce5",
-      "4223f27366fc70333225b9e2ec3d2a4c"
+      "28de9c918b4093df7f88896e37213b27",
+      "4223f27366fc70333225b9e2ec3d2a4c",
+      "49756a800af15034082fb005ee7377d8"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=tener%0A&op=translate",
     "parts": "",
@@ -1074,6 +1105,7 @@
     "skill": "Routines",
     "lexeme_id": "8f9e53e11910351b839d3e98c8a9ce9c",
     "related_lexemes": [
+      "e0e3df6364e22fc5006bd78dfecef14a",
       "9b26cce7c1648e034e3eb75ee24dc6b4",
       "8ab1ffe7a3de24a397a02eabba7ac83d",
       "a689045322ea250dc306483a69d7a5b4"
@@ -1099,13 +1131,20 @@
     "skill": "School",
     "lexeme_id": "aa577438625335af0cc03ef5041956ac",
     "related_lexemes": [
+      "6d62315fd838eb2cb5fdbcfe4b9c089f",
       "f9d3186a3a829083942aa09a75d1aae6",
       "0bf514fe950f664559f637bd6bf25c27",
+      "4929f7b3e040b94388c81daa81ca62ad",
       "0939af7a5aa69adc2ff42bcecfa2f545",
       "1a913f2ded424985b9c02d0436008511",
+      "f41a4214a8270d88cdb00d4c86de87a6",
+      "8ca933a044ec7422b0e5149601536081",
       "aa7265a41f27769a5f592d100795250c",
-      "faa6fd18132b358958e440322ee82b4b",
-      "5fbb4578c6e08d3122b2321720d682d7"
+      "16eee613801cbf721d543539caec9d0d",
+      "5fbb4578c6e08d3122b2321720d682d7",
+      "640033c966a73ac1cee5e7010bda49ec",
+      "38af04547b89d4a8b2b27993a7088e25",
+      "c0f0c5f8a796e2c30921e5bb32166875"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=leer%0A&op=translate",
     "parts": "",
@@ -1214,8 +1253,8 @@
       "c881cdec96673108f7ce423962c0346f",
       "6466c217460079d74e1f098116fff664",
       "c9da1649de2791d9e9f2982827a0c86b",
-      "bbc1c7e691166aa47af1b42002029074",
-      "b6387bbb26c70b877e746f2371e15a4d"
+      "b6387bbb26c70b877e746f2371e15a4d",
+      "bbc1c7e691166aa47af1b42002029074"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=querer%0A&op=translate",
     "parts": "",
@@ -1228,7 +1267,8 @@
     "gender": "Feminine",
     "lexeme_id": "dab5e84c022049854d9baf4090b41498",
     "related_lexemes": [
-      "31a68a80035e829401e8c0ca9fac9666"
+      "31a68a80035e829401e8c0ca9fac9666",
+      "f6e8f83b35f9f23cd99600649d8924f8"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=cansada%0A&op=translate",
     "parts": "",
@@ -1271,8 +1311,17 @@
     "skill": "Plans",
     "lexeme_id": "95e0860a25cba2b50b24a247bcb77dc2",
     "related_lexemes": [
+      "4d48d1f8103b3ceb27795a610ac7635b",
+      "ea256ca56a1684551a2cbcb6dfc845df",
       "e03a812edb20131d356d988c8239d2de",
-      "828ee949d379aaad84eb3f150e3818ca"
+      "d33820e64165a8e78d27c34a0dc6d915",
+      "896377f68f163f4a3e874a9d92fdc7b1",
+      "7420c68e747b9653f04f135096b699b0",
+      "7faf6d38189c21cf7a000bc44f64df6b",
+      "e67c7a4a4d1398d43007101240729dc2",
+      "4eb6f841768a4300131113e7004447a5",
+      "828ee949d379aaad84eb3f150e3818ca",
+      "dbd620bd90fbb6034e85e38e01607afc"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=decir%0A&op=translate",
     "parts": "",
@@ -1299,8 +1348,8 @@
     "gender": "Masculine",
     "lexeme_id": "de9ac0fd40e72b12722faf6c89faef22",
     "related_lexemes": [
-      "66538fd45aed91b8618a5907f861cbbc",
       "fff799d4d95e416db9dc07ca717b4ef9",
+      "66538fd45aed91b8618a5907f861cbbc",
       "9015cbf3a4eddcb9a4773efccca03215"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=peque%C3%B1o%0A&op=translate",
@@ -1345,8 +1394,8 @@
       "0b8a4d4f6f41885544f8ae2faff26bb0",
       "f788e0798cdb76a9fe340bcca2820a07",
       "44dfa233fc1ea6261e84758daf4fb174",
-      "6d6a08ad1c21a2bb94ee872f09cb68ed",
       "cdae5fae107f5798d5ad14ad7d0b5918",
+      "6d6a08ad1c21a2bb94ee872f09cb68ed",
       "40f914f21e1f722820ea7b5589102b66"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=cerrar%0A&op=translate",
@@ -1401,7 +1450,10 @@
       "efb4aff15b32a7b5253e29f02cc85dd8",
       "7954dec7e1db52c3f3ff744944b673a5",
       "e395448740a1b1e1d3ce42c87852fd3a",
-      "6db9fb52d6b1c4c5be630498cdfcdc9b"
+      "6db9fb52d6b1c4c5be630498cdfcdc9b",
+      "2430675bbe96a6d7fd1bdce4e3333a31",
+      "716157deee28db85c8d36a96d785d19c",
+      "23146b8a282345dc6d35eac1d259934f"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=poder%0A&op=translate",
     "parts": "",
@@ -1457,13 +1509,13 @@
     "skill": "Emotions",
     "lexeme_id": "a02a5181f1d2ce728be8c42df1fba439",
     "related_lexemes": [
-      "dd7cf7e35a888baed83d543798ef0d86",
-      "a6233f3708d18476cdbbbf3e2eed5640",
       "bc466fb3655c9f4b6175dee6ce1c3767",
+      "dd7cf7e35a888baed83d543798ef0d86",
       "dd8ac8678dd16f095c4ac1dc7bb2ebf5",
       "da324dd643ebc2a0b67ccaa6378fdfb7",
       "546ab38c7503a20abd9e9e2ee41b537b",
-      "f3fcc9a55d40a3af8f0a16d484c0994e"
+      "f3fcc9a55d40a3af8f0a16d484c0994e",
+      "a6233f3708d18476cdbbbf3e2eed5640"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=disfrutar%0A&op=translate",
     "parts": "",
@@ -1513,11 +1565,11 @@
     "english": "have, (to) have, (to) be"
   },
   "no": {
-    "skill": "School",
-    "lexeme_id": "99bd3c0870a25539582d9817c4d9ff18",
+    "skill": "Common-Phrases",
+    "lexeme_id": "c2c8a202a12411858f87d4dcef5b2998",
     "related_lexemes": [
       "fec478a5f8ab739031469fbed944c59c",
-      "c2c8a202a12411858f87d4dcef5b2998"
+      "99bd3c0870a25539582d9817c4d9ff18"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=no%0A&op=translate",
     "parts": "",
@@ -1625,9 +1677,9 @@
     "skill": "Routines-2",
     "lexeme_id": "572c0ba6e03d1b4ceb55e7996d234a16",
     "related_lexemes": [
-      "933bf1d03eafe4a29984edc837cbbfe0",
       "8754d83a64f8f53d13414e050d68d845",
       "f726932c2c3d37e85ec53995b7f2c512",
+      "933bf1d03eafe4a29984edc837cbbfe0",
       "d8960962c3707b307243183f40b20593"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=levantarse%0A&op=translate",
@@ -1641,10 +1693,11 @@
     "skill": "Goforit",
     "lexeme_id": "4cc20b8710ccbf4ad5b5bffde437010e",
     "related_lexemes": [
-      "e034db74d518bb46933e2d02a8205163",
+      "4ce64bbf6b30c4de470dd88a8419ee12",
       "06717915f4a093453d08b2b9e9eb66b4",
       "1a82cf6b0054697c936aacc4827f061d",
-      "9bd981e48bb7c05815f916b6f136d40a"
+      "9bd981e48bb7c05815f916b6f136d40a",
+      "e034db74d518bb46933e2d02a8205163"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=entender%0A&op=translate",
     "parts": "",
@@ -1672,8 +1725,13 @@
     "lexeme_id": "c91a733cac960701f16542f7b1744c10",
     "related_lexemes": [
       "8b04760df9997cce1a7e904caf52132f",
-      "1ea4c8cb8e26b33af7c41916ec965c63",
+      "964b4cfab384b3664b789eca4dfa3499",
+      "e40f4c5d6c2094782dd10de9b0691d07",
+      "b6028374b6595d3e9c86abb21224c0b0",
+      "07901db097475382217761222f17fd5d",
       "dea4455126e9c1757ca059a6ad2eb4f2",
+      "8733cbc69dc79b9272372a65428c3929",
+      "1ea4c8cb8e26b33af7c41916ec965c63",
       "08c30308b59dba6dcdfb58339ff43bdb"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=poner%0A&op=translate",
@@ -1734,9 +1792,9 @@
     "skill": "Tasks",
     "lexeme_id": "0ed7c9d0725d842a96887dbf6aceada8",
     "related_lexemes": [
-      "746dacbec9c9445d32ea6259d7216435",
       "f53a5c2562100e251b8e3bd24e5e0d23",
-      "24b67b1414c33bdb8e6a8f16cb7c36ba"
+      "24b67b1414c33bdb8e6a8f16cb7c36ba",
+      "746dacbec9c9445d32ea6259d7216435"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=quedarme%0A&op=translate",
     "parts": "",
@@ -1749,11 +1807,13 @@
     "skill": "Routines-2",
     "lexeme_id": "39007b3c41faaa99f950e934fe5429f8",
     "related_lexemes": [
+      "17a8578f66b4b158e78af6bbbbbe73a0",
       "adbee555be5516144c789e6781e3e1a2",
+      "eec52831561e9cd6989ff26ffae7d886",
       "a97e7ce34af7d4789f53266e4f86c316",
       "bd949b8333f19d6bdf6d9ec5fbe49972",
+      "38d8ed7b714c8f571a6c5257b6af88c0",
       "348718f09d2e363032db303db62a5aab",
-      "17a8578f66b4b158e78af6bbbbbe73a0",
       "c8e31c333ab7ee0d28c485c8c72a39d5",
       "ecd848f285c737b641d2146f85012057"
     ],
@@ -1877,8 +1937,8 @@
       "9d13b91db7bebb77c2b88fafa6aeafa1",
       "38eeed7b3dad5ed4da738ebdee36b4fd",
       "30381886af0d0e560d151e259220456c",
-      "7c1652db3f478007c63e7f5f8f2a7d3a",
       "60efcc7e1244f8ae02372c16dfda214c",
+      "7c1652db3f478007c63e7f5f8f2a7d3a",
       "043f6c47ec2b15775d0e59ea7dbe3ceb"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=conocer%0A&op=translate",
@@ -1942,12 +2002,12 @@
     "skill": "CleanUp",
     "lexeme_id": "be7a622c8338d7250151330c202802a7",
     "related_lexemes": [
-      "e2d0fe154c7d8a1e11326f4289c98247",
+      "994889cc8d2c279989948d1a43105db5",
       "86722ab10838cc23a01a9893da23012e",
       "1275f1982a0311147675a632a7a8e78b",
       "a88f72bdd15d70919a6476250df4388c",
-      "994889cc8d2c279989948d1a43105db5",
-      "094fa005af130ec226540d6b7131ce1e"
+      "094fa005af130ec226540d6b7131ce1e",
+      "e2d0fe154c7d8a1e11326f4289c98247"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=l%C3%A1vate%0A&op=translate",
     "parts": "",
@@ -1996,10 +2056,10 @@
     "lexeme_id": "e2d0fe154c7d8a1e11326f4289c98247",
     "related_lexemes": [
       "be7a622c8338d7250151330c202802a7",
+      "994889cc8d2c279989948d1a43105db5",
       "86722ab10838cc23a01a9893da23012e",
       "1275f1982a0311147675a632a7a8e78b",
       "a88f72bdd15d70919a6476250df4388c",
-      "994889cc8d2c279989948d1a43105db5",
       "094fa005af130ec226540d6b7131ce1e"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=l%C3%A1vese%0A&op=translate",
@@ -2012,7 +2072,9 @@
     "infinitive": "pintar",
     "skill": "Household",
     "lexeme_id": "e7598c9a1c4a9e7a2ba1941f1c0a7bb2",
-    "related_lexemes": [],
+    "related_lexemes": [
+      "908ddb3aaf92a8a46826acd20de55fd5"
+    ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=pintar%0A&op=translate",
     "parts": "",
     "duo": "https://preview.duolingo.com/dictionary/Spanish/pintar/908ddb3aaf92a8a46826acd20de55fd5",
@@ -2045,9 +2107,9 @@
     "skill": "Nature",
     "lexeme_id": "c3c43c5130b122a3544fd4dc84ad2969",
     "related_lexemes": [
+      "77d6d55097c4d9678a46ea8b224f89d6",
       "a845a89896ae9d3896e75c8c6ad46480",
-      "45e9d007dd832a9ea3a7071ed19766b8",
-      "77d6d55097c4d9678a46ea8b224f89d6"
+      "45e9d007dd832a9ea3a7071ed19766b8"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=nevar%0A&op=translate",
     "parts": "",
@@ -2056,10 +2118,10 @@
     "english": "snowing, (to) snow, snow"
   },
   "dos": {
-    "skill": "Restaurant",
-    "lexeme_id": "d863b0eb909eafdc530725e0b08abd83",
+    "skill": "School-2",
+    "lexeme_id": "9fa6910e4b48da0daeea688b4cfb1168",
     "related_lexemes": [
-      "9fa6910e4b48da0daeea688b4cfb1168"
+      "d863b0eb909eafdc530725e0b08abd83"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=dos%0A&op=translate",
     "parts": "",
@@ -2115,15 +2177,19 @@
     "lexeme_id": "e35758ada066b83b2a4561d05ee1d7f5",
     "related_lexemes": [
       "c91cb366594f14066a072413ae2463c3",
+      "71e8a5e7f9bdaaf83886342057b55bee",
+      "593cf703acd34bfc58184c2a96ff5e2a",
+      "9990b45ceaee7229b48f69e9cb802160",
       "d9aac708c8d753c2a5dbd125a9f43e46",
+      "2545879705929f2e074739aa6a13b7d7",
       "bd3599b1b4cc5623de51eba09bad546e",
+      "8e9c196bcd15ddd23a35b22ad99606c4",
       "5f953930ed2f7cb853c3874e8775bf5a",
       "15f99792b4df114a9390e9c5c8c98d8e",
-      "54ea6e7ad0807d4d9d66557447f4e624",
-      "593cf703acd34bfc58184c2a96ff5e2a",
       "9023ba9545e6bcfdb4ffd9f500d27c29",
       "33b0e1ddffd7f88532895500640817ee",
       "61c2f4dd9c024c9d99910ba2b04590b1",
+      "54ea6e7ad0807d4d9d66557447f4e624",
       "e8578c557b3989f9efbc424f9430091d"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=comer%0A&op=translate",
@@ -2165,7 +2231,8 @@
     "gender": "Masculine",
     "lexeme_id": "31a68a80035e829401e8c0ca9fac9666",
     "related_lexemes": [
-      "dab5e84c022049854d9baf4090b41498"
+      "dab5e84c022049854d9baf4090b41498",
+      "f6e8f83b35f9f23cd99600649d8924f8"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=cansado%0A&op=translate",
     "parts": "",
@@ -2212,7 +2279,10 @@
     "skill": "Chitchat",
     "lexeme_id": "9eab5529251aa7114717cbb4785d35d1",
     "related_lexemes": [
-      "4ee2c56ddd4d560dd73669127422a40c"
+      "4ee2c56ddd4d560dd73669127422a40c",
+      "17537485f36e978020f0b1f7b5081707",
+      "189b5e52576cd93ad0744ffbca370d30",
+      "fbd87b843d66da9036cfb85b3caa14e6"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=dar%0A&op=translate",
     "parts": "",
@@ -2234,9 +2304,9 @@
     "skill": "Plans",
     "lexeme_id": "f53a5c2562100e251b8e3bd24e5e0d23",
     "related_lexemes": [
-      "746dacbec9c9445d32ea6259d7216435",
       "0ed7c9d0725d842a96887dbf6aceada8",
-      "24b67b1414c33bdb8e6a8f16cb7c36ba"
+      "24b67b1414c33bdb8e6a8f16cb7c36ba",
+      "746dacbec9c9445d32ea6259d7216435"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=quedarse%0A&op=translate",
     "parts": "",
@@ -2300,14 +2370,14 @@
       "82405a988fe6d883b8df7297873c5e5a",
       "c5f9e23319bd9029c19b099a97036be3",
       "50629ad6c891b5b3f258b2fdb0e3cf82",
+      "a96439c6627d7b2447435b1a5f32eade",
       "483f8bb2614072287fe1a39eb15ba612",
       "967bfdb9d5180c33cfb21dca82034e85",
       "7c5f7481bd058705944beb130edc5882",
       "3d69e78dafc9bb33f926626a63c580bb",
+      "84347591472c0deb4b61eab4b788f503",
       "ab724af62c7e36266ef3b66766d47489",
       "22e3fc5f089cf47dae927dfddcce2844",
-      "1f3913c124a1e1684f525887a9ba796e",
-      "a96439c6627d7b2447435b1a5f32eade",
       "fae183cfa6a19d79e500f55f55775e68"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=las%0A&op=translate",
@@ -2454,8 +2524,8 @@
     "gender": "Feminine",
     "lexeme_id": "e3f7a4495f1d47fbca713a5a70dbd8e9",
     "related_lexemes": [
-      "65f61449087b9dbb2083da5a93210fd0",
       "c042776c6e21db7522381dc8a022e74e",
+      "65f61449087b9dbb2083da5a93210fd0",
       "b1b2b2203009f082a1cf172e42fa65a3"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=la%0A&op=translate",
@@ -2479,7 +2549,11 @@
     "skill": "Preference",
     "lexeme_id": "aad02cf70a6507f97b1af973739a477c",
     "related_lexemes": [
-      "4801cc1dc54a4e385fc399004d26db7d"
+      "b5f9e126608454d60be64ef602e9199e",
+      "4801cc1dc54a4e385fc399004d26db7d",
+      "0de90c26d3543f2d0e543724851a2840",
+      "b1082ee6910ed04193a3675e04406682",
+      "251758b49ea85fc9f5546ad6ac26f6c4"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=jugar%0A&op=translate",
     "parts": "",
@@ -2493,11 +2567,11 @@
     "lexeme_id": "86722ab10838cc23a01a9893da23012e",
     "related_lexemes": [
       "be7a622c8338d7250151330c202802a7",
-      "e2d0fe154c7d8a1e11326f4289c98247",
+      "994889cc8d2c279989948d1a43105db5",
       "1275f1982a0311147675a632a7a8e78b",
       "a88f72bdd15d70919a6476250df4388c",
-      "994889cc8d2c279989948d1a43105db5",
-      "094fa005af130ec226540d6b7131ce1e"
+      "094fa005af130ec226540d6b7131ce1e",
+      "e2d0fe154c7d8a1e11326f4289c98247"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=lavar%0A&op=translate",
     "parts": "",
@@ -2696,13 +2770,13 @@
     "related_lexemes": [
       "6b6bfa785daf2c69dd1e2dd2407507bd",
       "e0c59af9edfe94325252afb2525b4c93",
-      "87c0872395d39bff72bd1ab172838aea",
       "78fe38e6eed9e97f4f7ad476456a5ed7",
       "09be89e3a26401b75848294903475cdb",
       "87e0353f2e22ddd6d216877257a0a0aa",
-      "a8a620e1310deb6282fec185918acad1",
       "08b7a6148c4d7fe829958cd7aafba5a2",
       "065d3cd6bc42c437f89877740698c750",
+      "87c0872395d39bff72bd1ab172838aea",
+      "a8a620e1310deb6282fec185918acad1",
       "90168298e9d9f7f39a7afa7a4de70678",
       "1d82fa60ebcc219cea70d4375a404a5c",
       "30f1309af77ca639ef209bc90a23022a"
@@ -2900,13 +2974,13 @@
     "lexeme_id": "57a634af6d352d1b3eeba8ed85c18e98",
     "related_lexemes": [
       "f8f9269fe135cd874936badaed42552a",
-      "1add1a814e78d9c1efa276ad345a6f72",
       "67839cddd121bf2d2669f360da74840f",
       "a25ed97eda50cf72dca5dde08578188f",
       "222bdd1c0f2e3c63b811d2caf704810e",
       "3c22c43d0d26c909dee1e5f3744e9c40",
       "8c525c4aac4c5dae0664a715d67eb308",
       "02096cff4f99d6c8263e7ec482cd307d",
+      "1add1a814e78d9c1efa276ad345a6f72",
       "f71ece01c7336bbfa17b465d78cc124c",
       "e3ebb4b322d7f61f5e2b84c5ba6a7df8"
     ],
@@ -2921,6 +2995,7 @@
     "skill": "Travel-3",
     "lexeme_id": "50cd1abc1b53c758867ea40185fbe009",
     "related_lexemes": [
+      "f1a2c3417ccf039402b3dbd7c1716800",
       "9b3ceac5ea95033e970e43d2e9a4da9f",
       "7088ce4a4acd974f35a8fc8b49473ebf",
       "63bf0acc862e6f25945147d147734b30"
@@ -2963,8 +3038,9 @@
     "lexeme_id": "a419d779011ec9177958dbea814cfc27",
     "related_lexemes": [
       "c01bfa6025374d907b79adf8fc30e720",
-      "44be0fe117b2fc1fb5ccfadb2f38777b",
-      "74156192eda4ca06109ab3d70641acac"
+      "74156192eda4ca06109ab3d70641acac",
+      "b07e15c2132dfa7f9547d4c26679b7fd",
+      "44be0fe117b2fc1fb5ccfadb2f38777b"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=gustar%0A&op=translate",
     "parts": "",
@@ -3115,11 +3191,12 @@
     "skill": "Goforit",
     "lexeme_id": "8342a35bbf3e077d7207b68e02fe048d",
     "related_lexemes": [
-      "1efff98dd117a773e0f56948ed85777e",
-      "891f4bf13973b8e138237512edae0aac",
+      "e2a7ef16d39d76001a122ee0f3a693fd",
       "b4522b4d999df1722a48fd2033ce5b21",
+      "1efff98dd117a773e0f56948ed85777e",
       "f0a7d0dc5c060550f450df4ef58695e2",
-      "0a65cba4f54d2c7dde72bd9498c818df"
+      "0a65cba4f54d2c7dde72bd9498c818df",
+      "891f4bf13973b8e138237512edae0aac"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=almorzar%0A&op=translate",
     "parts": "",
@@ -3143,7 +3220,8 @@
     "lexeme_id": "477d46616d2a2e603bf5fc2c1a0a90ef",
     "related_lexemes": [
       "10b9864fe5849bdb2efc645cc9646308",
-      "c065862a7b20101dc3d726ea9fb85dac"
+      "c065862a7b20101dc3d726ea9fb85dac",
+      "0c9d7a55156e2dad5dd1bafff3b592ba"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=escuchar%0A&op=translate",
     "parts": "",
@@ -3343,7 +3421,9 @@
     "infinitive": "ayudar",
     "skill": "Community",
     "lexeme_id": "6e8b9bd1d1733901df730b4db2920d3e",
-    "related_lexemes": [],
+    "related_lexemes": [
+      "126d7d82f0c77c5a2d9ce47a05deaaa3"
+    ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=ayudar%0A&op=translate",
     "parts": "",
     "duo": "https://preview.duolingo.com/dictionary/Spanish/ayudar/a6ccd54d8261ba5adf43609f15bf8b32",
@@ -3393,8 +3473,8 @@
     "gender": "Masculine",
     "lexeme_id": "abbb859e9b1a57ed3f69046c015b9d76",
     "related_lexemes": [
-      "f00cd5d54171096208a6a1e13ab02ab9",
-      "751870fa2768a6ee46e433d2b2852ce8"
+      "751870fa2768a6ee46e433d2b2852ce8",
+      "f00cd5d54171096208a6a1e13ab02ab9"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=perro%0A&op=translate",
     "parts": "",
@@ -3535,10 +3615,10 @@
     "english": "important, leading"
   },
   "maestro": {
-    "skill": "People-3",
-    "lexeme_id": "fd08af061fb8efb301bf15edae83d3fe",
+    "skill": "School",
+    "lexeme_id": "ebc41dcfbb690cfb1cca0e6e68265794",
     "related_lexemes": [
-      "ebc41dcfbb690cfb1cca0e6e68265794",
+      "fd08af061fb8efb301bf15edae83d3fe",
       "2160b92a753118127811c3735e38365a"
     ],
     "gender": "Masculine",
@@ -3562,11 +3642,11 @@
     "english": "dinner, (to) eat dinner, (to) have dinner"
   },
   "hijo": {
-    "skill": "Family",
+    "skill": "Family-2",
     "gender": "Masculine",
-    "lexeme_id": "d8802a3b0aafd0176b17110f9fd7b003",
+    "lexeme_id": "b50078c1723b7128395e7beb0e724978",
     "related_lexemes": [
-      "b50078c1723b7128395e7beb0e724978",
+      "d8802a3b0aafd0176b17110f9fd7b003",
       "bb1445b3da4b0d487a9e06c8da4874cf"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=hijo%0A&op=translate",
@@ -3678,15 +3758,15 @@
       "16a6382ddbaba6bd4edeca81edc042e0",
       "82405a988fe6d883b8df7297873c5e5a",
       "50629ad6c891b5b3f258b2fdb0e3cf82",
+      "a96439c6627d7b2447435b1a5f32eade",
       "483f8bb2614072287fe1a39eb15ba612",
       "967bfdb9d5180c33cfb21dca82034e85",
       "d04809f4a8b600d8acf6ca8e944dde69",
       "7c5f7481bd058705944beb130edc5882",
       "3d69e78dafc9bb33f926626a63c580bb",
+      "84347591472c0deb4b61eab4b788f503",
       "ab724af62c7e36266ef3b66766d47489",
       "22e3fc5f089cf47dae927dfddcce2844",
-      "1f3913c124a1e1684f525887a9ba796e",
-      "a96439c6627d7b2447435b1a5f32eade",
       "fae183cfa6a19d79e500f55f55775e68"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=los%0A&op=translate",
@@ -3753,8 +3833,8 @@
     "lexeme_id": "8754d83a64f8f53d13414e050d68d845",
     "related_lexemes": [
       "572c0ba6e03d1b4ceb55e7996d234a16",
-      "933bf1d03eafe4a29984edc837cbbfe0",
       "f726932c2c3d37e85ec53995b7f2c512",
+      "933bf1d03eafe4a29984edc837cbbfe0",
       "d8960962c3707b307243183f40b20593"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=levantarte%0A&op=translate",
@@ -3876,12 +3956,16 @@
       "f3ec502e5b9ca28d31b1478341f7bb3d",
       "958e352cb64f78feed5afb5b95657dbe",
       "79045a5d49ad360f896f17a271a75250",
+      "90acdbbf35f211af2c596ffd6e3c2bc3",
       "84e18e86c58e8e61d687dfa06b3aaa36",
+      "04e0d1f39c374f6031401e5da379e0de",
+      "90eb6f3c35c3c3a79fab018f2f590555",
       "a5b341607943845ef69a88d8354fe714",
       "2192ba213de5aaa68de397de7df8d3ea",
       "ac01ab44c0644f4637eb7aa6ce0d4109",
       "fda174b61b0ed5e2eaa6deceae37f56b",
       "3de72f2673e3e5d916e62339cb03bd34",
+      "2c4294bcad2d90b486c6e8b1642a9c47",
       "3f17c09c623bdfcde697e996a7512184",
       "a2677be5119dd659378f2a399c664840",
       "54ed4cf41cbbae2ce97ddda174b5be84"
@@ -3893,10 +3977,10 @@
     "english": "out, were, (I) was"
   },
   "restaurante": {
-    "skill": "People-3",
-    "lexeme_id": "2263cc6b4150b52b5c419083b5cd3aa5",
+    "skill": "Restaurant",
+    "lexeme_id": "7cb83f91ad91d435f34ad424a0665544",
     "related_lexemes": [
-      "7cb83f91ad91d435f34ad424a0665544",
+      "2263cc6b4150b52b5c419083b5cd3aa5",
       "5ea643ce9af205fab080b02d1b11d36d"
     ],
     "gender": "Masculine",
@@ -4013,8 +4097,8 @@
     "skill": "Describe",
     "lexeme_id": "bd06548bf4b6b8d8cfe288f6cb73390f",
     "related_lexemes": [
-      "228d405825f94d9fd6a17d3148b34ab7",
-      "664d7dcfd3eb0d341b39fcf530fa4669"
+      "664d7dcfd3eb0d341b39fcf530fa4669",
+      "228d405825f94d9fd6a17d3148b34ab7"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=inteligentes%0A&op=translate",
     "parts": "",
@@ -4255,11 +4339,11 @@
     "english": "look, (to) look for, (to) search"
   },
   "ensalada": {
-    "skill": "Restaurant",
+    "skill": "People-2",
     "gender": "Feminine",
-    "lexeme_id": "67ff18bd5a1e12af1ff965bc13b94b24",
+    "lexeme_id": "42673892b85e68d7dfd07298522247c6",
     "related_lexemes": [
-      "42673892b85e68d7dfd07298522247c6",
+      "67ff18bd5a1e12af1ff965bc13b94b24",
       "1692553138bed9a7baf47604f996d1af"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=ensalada%0A&op=translate",
@@ -4286,7 +4370,9 @@
     "infinitive": "morir",
     "skill": "History",
     "lexeme_id": "6dd6cbb5d0ed1408ff4fc1c733dc415d",
-    "related_lexemes": [],
+    "related_lexemes": [
+      "3206460038c151b6d0aa37eba6e95f32"
+    ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=morir%0A&op=translate",
     "parts": "",
     "duo": "https://preview.duolingo.com/dictionary/Spanish/morir/22b0ae98a86009737e8b957e118fa142",
@@ -4304,10 +4390,10 @@
     "english": "reservation, (he) reserves, (she) is reserving"
   },
   "tres": {
-    "skill": "School-2",
-    "lexeme_id": "6a25eaf0668be66c3cbad4f76634a914",
+    "skill": "Restaurant",
+    "lexeme_id": "4271b76ed71c6e607eec2c38a88adfde",
     "related_lexemes": [
-      "4271b76ed71c6e607eec2c38a88adfde"
+      "6a25eaf0668be66c3cbad4f76634a914"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=tres%0A&op=translate",
     "parts": "",
@@ -4376,6 +4462,7 @@
     "skill": "Tasks",
     "lexeme_id": "b228fc5fd8c59186e554e9d11b83f26f",
     "related_lexemes": [
+      "3bc9d048dbef814ec7e5672de8b92481",
       "d520aa422b8e49e73f2d34b50eb3ac74"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=esperar%0A&op=translate",
@@ -4561,15 +4648,15 @@
       "16a6382ddbaba6bd4edeca81edc042e0",
       "c5f9e23319bd9029c19b099a97036be3",
       "50629ad6c891b5b3f258b2fdb0e3cf82",
+      "a96439c6627d7b2447435b1a5f32eade",
       "483f8bb2614072287fe1a39eb15ba612",
       "967bfdb9d5180c33cfb21dca82034e85",
       "d04809f4a8b600d8acf6ca8e944dde69",
       "7c5f7481bd058705944beb130edc5882",
       "3d69e78dafc9bb33f926626a63c580bb",
+      "84347591472c0deb4b61eab4b788f503",
       "ab724af62c7e36266ef3b66766d47489",
       "22e3fc5f089cf47dae927dfddcce2844",
-      "1f3913c124a1e1684f525887a9ba796e",
-      "a96439c6627d7b2447435b1a5f32eade",
       "fae183cfa6a19d79e500f55f55775e68"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=t%C3%BA%0A&op=translate",
@@ -4590,10 +4677,15 @@
   },
   "dormir": {
     "infinitive": "dormir",
-    "skill": "Emotions",
-    "lexeme_id": "9bec0e9da564350b456199aef8e9921d",
+    "skill": "Apartment",
+    "lexeme_id": "edcfaaf76de0fde7c2aea3b898bc384a",
     "related_lexemes": [
-      "8072f21d101ad81dd01fecdb2c426ee9"
+      "81c4c483a3d881e6c6305901f483c39d",
+      "8072f21d101ad81dd01fecdb2c426ee9",
+      "d9f89877ab9e61b09c59b33b9d6b0299",
+      "9bec0e9da564350b456199aef8e9921d",
+      "21974352afa525c1200c6ee0bc210b66",
+      "2d3f000e3234cb3c349edc9f8d1ad666"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=dormir%0A&op=translate",
     "parts": "",
@@ -4606,9 +4698,11 @@
     "skill": "Community",
     "lexeme_id": "f782bcd59a92604837ebe09a1ae43f11",
     "related_lexemes": [
+      "7d8d6292f5cb120d1e38f7f583d96b8d",
       "4b748a33431a67b6ebfc0f9bcccac80d",
       "51015610c0d9cef31b079d664c9a6ab8",
       "7c0dbcf779945dd268a49841d05509a4",
+      "0e7c0fc54014744bce054a63d82bf116",
       "11e845e80c01eb5ee266fe8ae5012c97",
       "bb30f7becbdc5d11d3159ed1afdb1283"
     ],
@@ -5086,7 +5180,9 @@
     "skill": "Home",
     "lexeme_id": "a907d155ae0aa04a5df529881bdce1ac",
     "related_lexemes": [
+      "c7e5e37d4bcf2a3abf11ed965c2ce7b7",
       "34fbd819e89b25e12fb868309ff16707",
+      "b796d05dc31f72f511820e425d44e6f4",
       "962901c6bbfc1d3e8cbbb6e6887fc362"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=o%C3%ADr%0A&op=translate",
@@ -5107,15 +5203,15 @@
       "16a6382ddbaba6bd4edeca81edc042e0",
       "82405a988fe6d883b8df7297873c5e5a",
       "c5f9e23319bd9029c19b099a97036be3",
+      "a96439c6627d7b2447435b1a5f32eade",
       "483f8bb2614072287fe1a39eb15ba612",
       "967bfdb9d5180c33cfb21dca82034e85",
       "d04809f4a8b600d8acf6ca8e944dde69",
       "7c5f7481bd058705944beb130edc5882",
       "3d69e78dafc9bb33f926626a63c580bb",
+      "84347591472c0deb4b61eab4b788f503",
       "ab724af62c7e36266ef3b66766d47489",
       "22e3fc5f089cf47dae927dfddcce2844",
-      "1f3913c124a1e1684f525887a9ba796e",
-      "a96439c6627d7b2447435b1a5f32eade",
       "fae183cfa6a19d79e500f55f55775e68"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=nosotros%0A&op=translate",
@@ -5175,6 +5271,7 @@
     "lexeme_id": "7f0ea4d40cd20d7e6ac1cb453412fba1",
     "related_lexemes": [
       "3ae075387adc12c7ceae513781b5da35",
+      "81d5f8beeb27d2b2f8234fea16cb9b20",
       "08a3872e44a201481524294a566afa50"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=grandes%0A&op=translate",
@@ -5198,11 +5295,17 @@
     "skill": "Travel-3",
     "lexeme_id": "2f2e9c3275b27175db209eccaa8cd4f4",
     "related_lexemes": [
+      "6b9601d6db3e8a9361f9aec695fe8b5f",
+      "3ddbc380c401ac560170fa53731319be",
+      "76343eda8ad2eee8836ffce427772bb2",
+      "9a58955186f117c7f8c37baeefca3d78",
       "8dce1427e92b20185ec503c7b93f24ff",
+      "af2a9af4d518d696b47e6e9adf3d0ea6",
       "3d3a87b3103f67ffb17eaaf09e794459",
       "60131921811cc603c6020e44443a5a2e",
       "0466f54d69e71d498a406cfd76dd2902",
-      "e06829dfa5ec1b50f20eb8917f4578ee"
+      "e06829dfa5ec1b50f20eb8917f4578ee",
+      "b462ddaa88872a6752089b92a71aab54"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=ir%0A&op=translate",
     "parts": "",
@@ -5241,8 +5344,8 @@
     "skill": "Restaurant",
     "lexeme_id": "736ab9b557ef48f3e37ef0ea405a421f",
     "related_lexemes": [
-      "c28c20c32ce88fa3a70cf9ad4734c02d",
       "46b64e125873ee7b3ebef377025dfd85",
+      "c28c20c32ce88fa3a70cf9ad4734c02d",
       "972044fc74ab612a3a4bd9eca4f396ba",
       "c6ca7233bcfdbbd0e796ccb3b50600a3"
     ],
@@ -5327,8 +5430,13 @@
     "lexeme_id": "1ea4c8cb8e26b33af7c41916ec965c63",
     "related_lexemes": [
       "8b04760df9997cce1a7e904caf52132f",
+      "964b4cfab384b3664b789eca4dfa3499",
+      "e40f4c5d6c2094782dd10de9b0691d07",
       "c91a733cac960701f16542f7b1744c10",
+      "b6028374b6595d3e9c86abb21224c0b0",
+      "07901db097475382217761222f17fd5d",
       "dea4455126e9c1757ca059a6ad2eb4f2",
+      "8733cbc69dc79b9272372a65428c3929",
       "08c30308b59dba6dcdfb58339ff43bdb"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=ponerte%0A&op=translate",
@@ -5340,7 +5448,9 @@
   "mil": {
     "skill": "Chitchat",
     "lexeme_id": "56460f568642d9bd5d7c144bd544fedc",
-    "related_lexemes": [],
+    "related_lexemes": [
+      "6f83056a8f367aea29e5981f4ad0be9d"
+    ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=mil%0A&op=translate",
     "parts": "",
     "duo": "https://preview.duolingo.com/dictionary/Spanish/mil/fc14d3e74b714ad2505ad9b5c5319186",
@@ -5565,11 +5675,11 @@
     "lexeme_id": "1275f1982a0311147675a632a7a8e78b",
     "related_lexemes": [
       "be7a622c8338d7250151330c202802a7",
-      "e2d0fe154c7d8a1e11326f4289c98247",
+      "994889cc8d2c279989948d1a43105db5",
       "86722ab10838cc23a01a9893da23012e",
       "a88f72bdd15d70919a6476250df4388c",
-      "994889cc8d2c279989948d1a43105db5",
-      "094fa005af130ec226540d6b7131ce1e"
+      "094fa005af130ec226540d6b7131ce1e",
+      "e2d0fe154c7d8a1e11326f4289c98247"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=lavarse%0A&op=translate",
     "parts": "",
@@ -5599,14 +5709,14 @@
       "82405a988fe6d883b8df7297873c5e5a",
       "c5f9e23319bd9029c19b099a97036be3",
       "50629ad6c891b5b3f258b2fdb0e3cf82",
+      "a96439c6627d7b2447435b1a5f32eade",
       "967bfdb9d5180c33cfb21dca82034e85",
       "d04809f4a8b600d8acf6ca8e944dde69",
       "7c5f7481bd058705944beb130edc5882",
       "3d69e78dafc9bb33f926626a63c580bb",
+      "84347591472c0deb4b61eab4b788f503",
       "ab724af62c7e36266ef3b66766d47489",
       "22e3fc5f089cf47dae927dfddcce2844",
-      "1f3913c124a1e1684f525887a9ba796e",
-      "a96439c6627d7b2447435b1a5f32eade",
       "fae183cfa6a19d79e500f55f55775e68"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=me%0A&op=translate",
@@ -5650,6 +5760,8 @@
     "skill": "Travel-4",
     "lexeme_id": "a380b9d0fea5e847ca9435940feb6f21",
     "related_lexemes": [
+      "825507de91ce81dc48c79a4ddb0322a7",
+      "826288a931379a527511957fef65da09",
       "7654f60d51607700c9b462f660e9e1b0"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=llegar%0A&op=translate",
@@ -5703,7 +5815,9 @@
     "skill": "Recreation",
     "lexeme_id": "dab63801493dd583f8faee60b14db18a",
     "related_lexemes": [
+      "cbf0b23ba3cb700ccccc453eae1172f5",
       "b2c9ebc9eecf4f1ac10f3e247869ae1c",
+      "b87c9b0458dad6303144ba00fb2d97f4",
       "a01ce3530cc402009b8265c2687d87d8"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=montar%0A&op=translate",
@@ -5889,7 +6003,9 @@
     "skill": "Intro",
     "gender": "Masculine",
     "lexeme_id": "389d16a7713404bf18de999b57a54eae",
-    "related_lexemes": [],
+    "related_lexemes": [
+      "b9ebe908de65aaa83e0ac4a20689ef74"
+    ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=pan%0A&op=translate",
     "parts": "",
     "duo": "https://preview.duolingo.com/dictionary/Spanish/sart%C3%A9n/69c13971a92c97fafcefeb7d8922d338",
@@ -6084,9 +6200,9 @@
     "skill": "Home",
     "lexeme_id": "24b67b1414c33bdb8e6a8f16cb7c36ba",
     "related_lexemes": [
-      "746dacbec9c9445d32ea6259d7216435",
       "0ed7c9d0725d842a96887dbf6aceada8",
-      "f53a5c2562100e251b8e3bd24e5e0d23"
+      "f53a5c2562100e251b8e3bd24e5e0d23",
+      "746dacbec9c9445d32ea6259d7216435"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=quedar%0A&op=translate",
     "parts": "",
@@ -6343,7 +6459,8 @@
     "lexeme_id": "08a3872e44a201481524294a566afa50",
     "related_lexemes": [
       "7f0ea4d40cd20d7e6ac1cb453412fba1",
-      "3ae075387adc12c7ceae513781b5da35"
+      "3ae075387adc12c7ceae513781b5da35",
+      "81d5f8beeb27d2b2f8234fea16cb9b20"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=grande%0A&op=translate",
     "parts": "",
@@ -6501,11 +6618,11 @@
     "english": "to do"
   },
   "inteligente": {
-    "skill": "Family-2",
-    "lexeme_id": "664d7dcfd3eb0d341b39fcf530fa4669",
+    "skill": "Family",
+    "lexeme_id": "228d405825f94d9fd6a17d3148b34ab7",
     "related_lexemes": [
       "bd06548bf4b6b8d8cfe288f6cb73390f",
-      "228d405825f94d9fd6a17d3148b34ab7"
+      "664d7dcfd3eb0d341b39fcf530fa4669"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=inteligente%0A&op=translate",
     "parts": "",
@@ -6696,8 +6813,8 @@
     "gender": "Masculine",
     "lexeme_id": "b1b2b2203009f082a1cf172e42fa65a3",
     "related_lexemes": [
-      "65f61449087b9dbb2083da5a93210fd0",
       "c042776c6e21db7522381dc8a022e74e",
+      "65f61449087b9dbb2083da5a93210fd0",
       "e3f7a4495f1d47fbca713a5a70dbd8e9"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=el%0A&op=translate",
@@ -6952,9 +7069,11 @@
     "english": "next"
   },
   "que": {
-    "skill": "Howpretty",
-    "lexeme_id": "ad2c56f95c8646373906ccb638c5aa8a",
-    "related_lexemes": [],
+    "skill": "Lookitup",
+    "lexeme_id": "d7aec7ab4c454136b615d97811cf667e",
+    "related_lexemes": [
+      "ad2c56f95c8646373906ccb638c5aa8a"
+    ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=que%0A&op=translate",
     "parts": "",
     "duo": "https://preview.duolingo.com/dictionary/Spanish/que/e8d78e1b7f23f72474ddf669c36c1b76",
@@ -7096,14 +7215,14 @@
       "82405a988fe6d883b8df7297873c5e5a",
       "c5f9e23319bd9029c19b099a97036be3",
       "50629ad6c891b5b3f258b2fdb0e3cf82",
+      "a96439c6627d7b2447435b1a5f32eade",
       "483f8bb2614072287fe1a39eb15ba612",
       "d04809f4a8b600d8acf6ca8e944dde69",
       "7c5f7481bd058705944beb130edc5882",
       "3d69e78dafc9bb33f926626a63c580bb",
+      "84347591472c0deb4b61eab4b788f503",
       "ab724af62c7e36266ef3b66766d47489",
       "22e3fc5f089cf47dae927dfddcce2844",
-      "1f3913c124a1e1684f525887a9ba796e",
-      "a96439c6627d7b2447435b1a5f32eade",
       "fae183cfa6a19d79e500f55f55775e68"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=usted%0A&op=translate",
@@ -7125,14 +7244,14 @@
       "82405a988fe6d883b8df7297873c5e5a",
       "c5f9e23319bd9029c19b099a97036be3",
       "50629ad6c891b5b3f258b2fdb0e3cf82",
+      "a96439c6627d7b2447435b1a5f32eade",
       "483f8bb2614072287fe1a39eb15ba612",
       "967bfdb9d5180c33cfb21dca82034e85",
       "d04809f4a8b600d8acf6ca8e944dde69",
       "3d69e78dafc9bb33f926626a63c580bb",
+      "84347591472c0deb4b61eab4b788f503",
       "ab724af62c7e36266ef3b66766d47489",
       "22e3fc5f089cf47dae927dfddcce2844",
-      "1f3913c124a1e1684f525887a9ba796e",
-      "a96439c6627d7b2447435b1a5f32eade",
       "fae183cfa6a19d79e500f55f55775e68"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=%C3%A9l%0A&op=translate",
@@ -7286,6 +7405,8 @@
     "skill": "Preference",
     "lexeme_id": "729e8f1a3962ba75394c832de6acf01b",
     "related_lexemes": [
+      "58431de9762ebe4cfc05d81e4170798f",
+      "ac8bab272cba0fdd94cccfdc0692ff81",
       "847c297ce06f7aa77fc7332ef6ecce8c"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=nadar%0A&op=translate",
@@ -7367,7 +7488,9 @@
     "skill": "People-2",
     "gender": "Feminine",
     "lexeme_id": "93a6973b8f9adea7d0ab9b536499691a",
-    "related_lexemes": [],
+    "related_lexemes": [
+      "5889caebe5d61be5415ffcff5715d8fa"
+    ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=f%C3%A1brica%0A&op=translate",
     "parts": "",
     "duo": "https://preview.duolingo.com/dictionary/Spanish/f%C3%A1brica/05dc8d5b37cf6c2870a22aae22f3f2d5",
@@ -7378,12 +7501,15 @@
     "skill": "Travel-2",
     "gender": "Feminine",
     "lexeme_id": "d9f5da16930f06a2704bccf350017d71",
-    "related_lexemes": [],
+    "related_lexemes": [
+      "30d6c7bb8bc728873a5ceb2d72ca376d"
+    ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=ayuda%0A&op=translate",
     "parts": "",
     "duo": "https://preview.duolingo.com/dictionary/Spanish/ayuda/f10091053dc56a63938f56f76b0e0b36",
     "duodef": "help, (he) helps, (he) is helping",
-    "english": "help, (he) helps, (he) is helping"
+    "english": "help, (he) helps, (he) is helping",
+    "infinitive": "ayuda"
   },
   "ella": {
     "skill": "Intro",
@@ -7398,14 +7524,14 @@
       "82405a988fe6d883b8df7297873c5e5a",
       "c5f9e23319bd9029c19b099a97036be3",
       "50629ad6c891b5b3f258b2fdb0e3cf82",
+      "a96439c6627d7b2447435b1a5f32eade",
       "483f8bb2614072287fe1a39eb15ba612",
       "967bfdb9d5180c33cfb21dca82034e85",
       "d04809f4a8b600d8acf6ca8e944dde69",
       "7c5f7481bd058705944beb130edc5882",
+      "84347591472c0deb4b61eab4b788f503",
       "ab724af62c7e36266ef3b66766d47489",
       "22e3fc5f089cf47dae927dfddcce2844",
-      "1f3913c124a1e1684f525887a9ba796e",
-      "a96439c6627d7b2447435b1a5f32eade",
       "fae183cfa6a19d79e500f55f55775e68"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=ella%0A&op=translate",
@@ -7542,13 +7668,13 @@
     "related_lexemes": [
       "57a634af6d352d1b3eeba8ed85c18e98",
       "f8f9269fe135cd874936badaed42552a",
-      "1add1a814e78d9c1efa276ad345a6f72",
       "67839cddd121bf2d2669f360da74840f",
       "a25ed97eda50cf72dca5dde08578188f",
       "222bdd1c0f2e3c63b811d2caf704810e",
       "3c22c43d0d26c909dee1e5f3744e9c40",
       "8c525c4aac4c5dae0664a715d67eb308",
       "02096cff4f99d6c8263e7ec482cd307d",
+      "1add1a814e78d9c1efa276ad345a6f72",
       "e3ebb4b322d7f61f5e2b84c5ba6a7df8"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=probarse%0A&op=translate",
@@ -7637,8 +7763,8 @@
     "gender": "Feminine",
     "lexeme_id": "1692553138bed9a7baf47604f996d1af",
     "related_lexemes": [
-      "42673892b85e68d7dfd07298522247c6",
-      "67ff18bd5a1e12af1ff965bc13b94b24"
+      "67ff18bd5a1e12af1ff965bc13b94b24",
+      "42673892b85e68d7dfd07298522247c6"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=ensaladas%0A&op=translate",
     "parts": "",
@@ -7651,7 +7777,12 @@
     "lexeme_id": "dea4455126e9c1757ca059a6ad2eb4f2",
     "related_lexemes": [
       "8b04760df9997cce1a7e904caf52132f",
+      "964b4cfab384b3664b789eca4dfa3499",
+      "e40f4c5d6c2094782dd10de9b0691d07",
       "c91a733cac960701f16542f7b1744c10",
+      "b6028374b6595d3e9c86abb21224c0b0",
+      "07901db097475382217761222f17fd5d",
+      "8733cbc69dc79b9272372a65428c3929",
       "1ea4c8cb8e26b33af7c41916ec965c63",
       "08c30308b59dba6dcdfb58339ff43bdb"
     ],
@@ -7868,14 +7999,14 @@
       "82405a988fe6d883b8df7297873c5e5a",
       "c5f9e23319bd9029c19b099a97036be3",
       "50629ad6c891b5b3f258b2fdb0e3cf82",
+      "a96439c6627d7b2447435b1a5f32eade",
       "483f8bb2614072287fe1a39eb15ba612",
       "967bfdb9d5180c33cfb21dca82034e85",
       "d04809f4a8b600d8acf6ca8e944dde69",
       "7c5f7481bd058705944beb130edc5882",
       "3d69e78dafc9bb33f926626a63c580bb",
+      "84347591472c0deb4b61eab4b788f503",
       "22e3fc5f089cf47dae927dfddcce2844",
-      "1f3913c124a1e1684f525887a9ba796e",
-      "a96439c6627d7b2447435b1a5f32eade",
       "fae183cfa6a19d79e500f55f55775e68"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=te%0A&op=translate",
@@ -7919,8 +8050,8 @@
     "gender": "Feminine",
     "lexeme_id": "2160b92a753118127811c3735e38365a",
     "related_lexemes": [
-      "ebc41dcfbb690cfb1cca0e6e68265794",
-      "fd08af061fb8efb301bf15edae83d3fe"
+      "fd08af061fb8efb301bf15edae83d3fe",
+      "ebc41dcfbb690cfb1cca0e6e68265794"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=maestra%0A&op=translate",
     "parts": "",
@@ -8049,8 +8180,8 @@
     "lexeme_id": "f726932c2c3d37e85ec53995b7f2c512",
     "related_lexemes": [
       "572c0ba6e03d1b4ceb55e7996d234a16",
-      "933bf1d03eafe4a29984edc837cbbfe0",
       "8754d83a64f8f53d13414e050d68d845",
+      "933bf1d03eafe4a29984edc837cbbfe0",
       "d8960962c3707b307243183f40b20593"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=levantarme%0A&op=translate",
@@ -8074,8 +8205,8 @@
     "gender": "Masculine",
     "lexeme_id": "bb1445b3da4b0d487a9e06c8da4874cf",
     "related_lexemes": [
-      "b50078c1723b7128395e7beb0e724978",
-      "d8802a3b0aafd0176b17110f9fd7b003"
+      "d8802a3b0aafd0176b17110f9fd7b003",
+      "b50078c1723b7128395e7beb0e724978"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=hijos%0A&op=translate",
     "parts": "",
@@ -8183,14 +8314,14 @@
       "82405a988fe6d883b8df7297873c5e5a",
       "c5f9e23319bd9029c19b099a97036be3",
       "50629ad6c891b5b3f258b2fdb0e3cf82",
+      "a96439c6627d7b2447435b1a5f32eade",
       "483f8bb2614072287fe1a39eb15ba612",
       "967bfdb9d5180c33cfb21dca82034e85",
       "d04809f4a8b600d8acf6ca8e944dde69",
       "7c5f7481bd058705944beb130edc5882",
       "3d69e78dafc9bb33f926626a63c580bb",
+      "84347591472c0deb4b61eab4b788f503",
       "ab724af62c7e36266ef3b66766d47489",
-      "1f3913c124a1e1684f525887a9ba796e",
-      "a96439c6627d7b2447435b1a5f32eade",
       "fae183cfa6a19d79e500f55f55775e68"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=ellos%0A&op=translate",
@@ -8376,8 +8507,8 @@
     "lexeme_id": "9015cbf3a4eddcb9a4773efccca03215",
     "related_lexemes": [
       "de9ac0fd40e72b12722faf6c89faef22",
-      "66538fd45aed91b8618a5907f861cbbc",
-      "fff799d4d95e416db9dc07ca717b4ef9"
+      "fff799d4d95e416db9dc07ca717b4ef9",
+      "66538fd45aed91b8618a5907f861cbbc"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=peque%C3%B1os%0A&op=translate",
     "parts": "",
@@ -8521,8 +8652,8 @@
     "english": "take, (to) take, (to) bring"
   },
   "les": {
-    "skill": "Chitchat",
-    "lexeme_id": "1f3913c124a1e1684f525887a9ba796e",
+    "skill": "School-5",
+    "lexeme_id": "84347591472c0deb4b61eab4b788f503",
     "related_lexemes": [
       "37c2cf9dc926fcfb48440a4e4e6b6812",
       "aaa5edb86012a89ad96f0fe29b952ee7",
@@ -8532,6 +8663,7 @@
       "82405a988fe6d883b8df7297873c5e5a",
       "c5f9e23319bd9029c19b099a97036be3",
       "50629ad6c891b5b3f258b2fdb0e3cf82",
+      "a96439c6627d7b2447435b1a5f32eade",
       "483f8bb2614072287fe1a39eb15ba612",
       "967bfdb9d5180c33cfb21dca82034e85",
       "d04809f4a8b600d8acf6ca8e944dde69",
@@ -8539,7 +8671,6 @@
       "3d69e78dafc9bb33f926626a63c580bb",
       "ab724af62c7e36266ef3b66766d47489",
       "22e3fc5f089cf47dae927dfddcce2844",
-      "a96439c6627d7b2447435b1a5f32eade",
       "fae183cfa6a19d79e500f55f55775e68"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=les%0A&op=translate",
@@ -8674,8 +8805,8 @@
     "gender": "Masculine",
     "lexeme_id": "5ea643ce9af205fab080b02d1b11d36d",
     "related_lexemes": [
-      "7cb83f91ad91d435f34ad424a0665544",
-      "2263cc6b4150b52b5c419083b5cd3aa5"
+      "2263cc6b4150b52b5c419083b5cd3aa5",
+      "7cb83f91ad91d435f34ad424a0665544"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=restaurantes%0A&op=translate",
     "parts": "",
@@ -9092,9 +9223,9 @@
       "d04809f4a8b600d8acf6ca8e944dde69",
       "7c5f7481bd058705944beb130edc5882",
       "3d69e78dafc9bb33f926626a63c580bb",
+      "84347591472c0deb4b61eab4b788f503",
       "ab724af62c7e36266ef3b66766d47489",
       "22e3fc5f089cf47dae927dfddcce2844",
-      "1f3913c124a1e1684f525887a9ba796e",
       "fae183cfa6a19d79e500f55f55775e68"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=yo%0A&op=translate",
@@ -9141,13 +9272,17 @@
       "f3ec502e5b9ca28d31b1478341f7bb3d",
       "958e352cb64f78feed5afb5b95657dbe",
       "79045a5d49ad360f896f17a271a75250",
+      "90acdbbf35f211af2c596ffd6e3c2bc3",
       "84e18e86c58e8e61d687dfa06b3aaa36",
+      "04e0d1f39c374f6031401e5da379e0de",
+      "90eb6f3c35c3c3a79fab018f2f590555",
       "a5b341607943845ef69a88d8354fe714",
       "2192ba213de5aaa68de397de7df8d3ea",
       "ded3d40ec5648c421f9e1fd15334c281",
       "ac01ab44c0644f4637eb7aa6ce0d4109",
       "fda174b61b0ed5e2eaa6deceae37f56b",
       "3de72f2673e3e5d916e62339cb03bd34",
+      "2c4294bcad2d90b486c6e8b1642a9c47",
       "a2677be5119dd659378f2a399c664840",
       "54ed4cf41cbbae2ce97ddda174b5be84"
     ],
@@ -9216,11 +9351,11 @@
     "lexeme_id": "094fa005af130ec226540d6b7131ce1e",
     "related_lexemes": [
       "be7a622c8338d7250151330c202802a7",
-      "e2d0fe154c7d8a1e11326f4289c98247",
+      "994889cc8d2c279989948d1a43105db5",
       "86722ab10838cc23a01a9893da23012e",
       "1275f1982a0311147675a632a7a8e78b",
       "a88f72bdd15d70919a6476250df4388c",
-      "994889cc8d2c279989948d1a43105db5"
+      "e2d0fe154c7d8a1e11326f4289c98247"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=lavarnos%0A&op=translate",
     "parts": "",
@@ -9275,7 +9410,9 @@
   "qui\u00e9n": {
     "skill": "People-2",
     "lexeme_id": "769a9f0df193b5733be268d5dc9b9153",
-    "related_lexemes": [],
+    "related_lexemes": [
+      "a936fbe1906b2ac5e5286b4fbe9bfd8b"
+    ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=qui%C3%A9n%0A&op=translate",
     "parts": "",
     "duo": "https://preview.duolingo.com/dictionary/Spanish/qui%C3%A9n/04338fe35f3793be0987ff02506bb954",
@@ -9525,15 +9662,15 @@
       "82405a988fe6d883b8df7297873c5e5a",
       "c5f9e23319bd9029c19b099a97036be3",
       "50629ad6c891b5b3f258b2fdb0e3cf82",
+      "a96439c6627d7b2447435b1a5f32eade",
       "483f8bb2614072287fe1a39eb15ba612",
       "967bfdb9d5180c33cfb21dca82034e85",
       "d04809f4a8b600d8acf6ca8e944dde69",
       "7c5f7481bd058705944beb130edc5882",
       "3d69e78dafc9bb33f926626a63c580bb",
+      "84347591472c0deb4b61eab4b788f503",
       "ab724af62c7e36266ef3b66766d47489",
-      "22e3fc5f089cf47dae927dfddcce2844",
-      "1f3913c124a1e1684f525887a9ba796e",
-      "a96439c6627d7b2447435b1a5f32eade"
+      "22e3fc5f089cf47dae927dfddcce2844"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=nosotras%0A&op=translate",
     "parts": "",
@@ -10071,9 +10208,14 @@
     "lexeme_id": "08c30308b59dba6dcdfb58339ff43bdb",
     "related_lexemes": [
       "8b04760df9997cce1a7e904caf52132f",
+      "964b4cfab384b3664b789eca4dfa3499",
+      "e40f4c5d6c2094782dd10de9b0691d07",
       "c91a733cac960701f16542f7b1744c10",
-      "1ea4c8cb8e26b33af7c41916ec965c63",
-      "dea4455126e9c1757ca059a6ad2eb4f2"
+      "b6028374b6595d3e9c86abb21224c0b0",
+      "07901db097475382217761222f17fd5d",
+      "dea4455126e9c1757ca059a6ad2eb4f2",
+      "8733cbc69dc79b9272372a65428c3929",
+      "1ea4c8cb8e26b33af7c41916ec965c63"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=ponerme%0A&op=translate",
     "parts": "",
@@ -10145,9 +10287,9 @@
     "lexeme_id": "d8960962c3707b307243183f40b20593",
     "related_lexemes": [
       "572c0ba6e03d1b4ceb55e7996d234a16",
-      "933bf1d03eafe4a29984edc837cbbfe0",
       "8754d83a64f8f53d13414e050d68d845",
-      "f726932c2c3d37e85ec53995b7f2c512"
+      "f726932c2c3d37e85ec53995b7f2c512",
+      "933bf1d03eafe4a29984edc837cbbfe0"
     ],
     "google": "https://translate.google.com/?sl=es&tl=en&text=lev%C3%A1ntese%0A&op=translate",
     "parts": "",
@@ -10219,5 +10361,1719 @@
     "duodef": "but, yet",
     "english": "but, yet"
   },
-  "_skipped": []
+  "_skipped": [],
+  "oro": {
+    "skill": "MagicLand",
+    "gender": "Masculine",
+    "lexeme_id": "76ca3d41c45b64926a0c80e5090680ac",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/oro/abb6db724e5e16aaff223b1369a54d66",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=oro%0A&op=translate",
+    "duodef": "gold, golden",
+    "english": "gold, golden",
+    "parts": ""
+  },
+  "creo que deber\u00edas": {
+    "skill": "Apartment",
+    "lexeme_id": "ab2b42fe4029fb93d636b3db8b55c70b",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/Y3JlbyBxdWUgZGViZXLDrWFz",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=creo+que+deber%C3%ADas%0A&op=translate",
+    "duodef": "I think you should",
+    "english": "I think you should",
+    "parts": ""
+  },
+  "de acuerdo": {
+    "skill": "History-2",
+    "lexeme_id": "64776edca7a1f09e1aab03ebe681d28c",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/de-acuerdo/ee8ff019b724b5808df6a2ab61095cf1",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=de+acuerdo%0A&op=translate",
+    "duodef": "agreed, agree",
+    "english": "agreed, agree",
+    "parts": ""
+  },
+  "los maestros": {
+    "skill": "Life",
+    "lexeme_id": "24844577a5dc4578ec4fe9d22fa3b0c4",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/bG9zIG1hZXN0cm9z",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=los+maestros%0A&op=translate",
+    "duodef": "teachers",
+    "english": "teachers",
+    "parts": ""
+  },
+  "cuidar": {
+    "infinitive": "cuidar",
+    "skill": "Health",
+    "lexeme_id": "0ca0c36ff5af104f1f78f55d9a6d7c0e",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/cuidar/9019c0f8ceb112e38c8e29b8490632b8",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=cuidar%0A&op=translate",
+    "duodef": "(to) look after, (to) care for, (to) take care",
+    "english": "(to) look after, (to) care for, (to) take care",
+    "parts": ""
+  },
+  "explicar": {
+    "infinitive": "explicar",
+    "skill": "School-5",
+    "lexeme_id": "9778806809f0c7185460f9e66e7e7864",
+    "related_lexemes": [
+      "56720db61d159cff43435546806e97a8"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/explicar/e96aae7bfad78a22891ecaebfbe3bb74",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=explicar%0A&op=translate",
+    "duodef": "(to) explain, explain, explaining",
+    "english": "(to) explain, explain, explaining",
+    "parts": ""
+  },
+  "odiar": {
+    "infinitive": "odiar",
+    "skill": "Choices",
+    "lexeme_id": "2b3e942b18429f7d3db6265a37909afb",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/odiar/24959c3a3a6369af67a4130b954f3c92",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=odiar%0A&op=translate",
+    "duodef": null,
+    "english": null,
+    "parts": ""
+  },
+  "parece": {
+    "skill": "Social",
+    "lexeme_id": "e3beab98308087a5b8bd86731e4153db",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/parece/fbced1be179b3374aeda9869d27eac7f",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=parece%0A&op=translate",
+    "duodef": "seems, looks, (?) does it seem",
+    "english": "seems, looks, (?) does it seem",
+    "parts": ""
+  },
+  "dificil\u00edsimo": {
+    "skill": "Choices",
+    "lexeme_id": "31fe281b8ca900ffa066f49528c4c122",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/dificil%C3%ADsimo/31fe281b8ca900ffa066f49528c4c122",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=dificil%C3%ADsimo%0A&op=translate",
+    "duodef": "really difficult",
+    "english": "really difficult",
+    "parts": ""
+  },
+  "cuando": {
+    "skill": "Choices",
+    "lexeme_id": "dda027f2a23ac4b34effe710858ff724",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/cuando/e05be405e49407f45eda3e10b92f8d13",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=cuando%0A&op=translate",
+    "duodef": "when, whenever, as",
+    "english": "when, whenever, as",
+    "parts": ""
+  },
+  "pescar": {
+    "infinitive": "pescar",
+    "skill": "Anecdotes",
+    "lexeme_id": "9761fc99da5b285544cc0a8166b4f23c",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/pescar/c48475e368d0e7cf649bd14b95df0b05",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=pescar%0A&op=translate",
+    "duodef": "fishing, (to) catch, (to) fish",
+    "english": "fishing, (to) catch, (to) fish",
+    "parts": ""
+  },
+  "tampoco": {
+    "skill": "Work-2",
+    "lexeme_id": "f05c25f2490b1b2429576b1de71c9b99",
+    "related_lexemes": [
+      "9396cd578698b0bb866b763fe049692e"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/tampoco/f05c25f2490b1b2429576b1de71c9b99",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=tampoco%0A&op=translate",
+    "duodef": "neither, either, (I) don't",
+    "english": "neither, either, (I) don't",
+    "parts": ""
+  },
+  "a\u00f1o nuevo": {
+    "skill": "Traditions",
+    "lexeme_id": "66f86ce2dae2063701d2b6ddd9a45d91",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/a%C3%B1o-nuevo/7864896f3ae3012369af3af35da4d357",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=a%C3%B1o+nuevo%0A&op=translate",
+    "duodef": "New Year's",
+    "english": "New Year's",
+    "parts": ""
+  },
+  "a lo mejor": {
+    "skill": "FunPlans",
+    "lexeme_id": "23218abdc3cca6aa35bf701b8d1e5ca9",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/a-lo%20mejor/23218abdc3cca6aa35bf701b8d1e5ca9",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=a+lo+mejor%0A&op=translate",
+    "duodef": "maybe",
+    "english": "maybe",
+    "parts": ""
+  },
+  "rezar": {
+    "infinitive": "rezar",
+    "skill": "Storybook",
+    "lexeme_id": "db826e1bfa2881997987fe0eed14c838",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/rezar/db826e1bfa2881997987fe0eed14c838",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=rezar%0A&op=translate",
+    "duodef": "(to) pray",
+    "english": "(to) pray",
+    "parts": ""
+  },
+  "historia": {
+    "skill": "LastWeek",
+    "gender": "Feminine",
+    "lexeme_id": "20e28e502bfe49d3cfd7819aa25b1b3c",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/historia/eb1ddc2e94e656b7b3a7ab2756c24914",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=historia%0A&op=translate",
+    "duodef": "history, story",
+    "english": "history, story",
+    "parts": ""
+  },
+  "pena": {
+    "skill": "Social",
+    "gender": "Feminine",
+    "lexeme_id": "f98255a36ba632da6351afd948b7767a",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/pena/f02076f9f2db91cadf1c602055ab2144",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=pena%0A&op=translate",
+    "duodef": "pity, ghost, shame",
+    "english": "pity, ghost, shame",
+    "parts": ""
+  },
+  "especial del d\u00eda": {
+    "skill": "Delicious",
+    "lexeme_id": "58291427f3931732d0e2d5c5a1de8db4",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/ZXNwZWNpYWwgZGVsIGTDrWE=",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=especial+del+d%C3%ADa%0A&op=translate",
+    "duodef": "day's special",
+    "english": "day's special",
+    "parts": ""
+  },
+  "claramente": {
+    "skill": "School-5",
+    "lexeme_id": "591fe3bb2f875f98d5386778bf945c63",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/claramente/bdb6c174a12ce49e093cb7d62781517f",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=claramente%0A&op=translate",
+    "duodef": "clearly, plain",
+    "english": "clearly, plain",
+    "parts": ""
+  },
+  "hasta": {
+    "skill": "Storybook",
+    "lexeme_id": "4394441ba69a3c608cfb446795ad2655",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/hasta/f12fb288c8716435bd74a4a24d44cc51",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=hasta%0A&op=translate",
+    "duodef": "until, to, up to",
+    "english": "until, to, up to",
+    "parts": ""
+  },
+  "t\u00fa pones": {
+    "skill": "Work-2",
+    "lexeme_id": "01212bc0f922c69068511a380568ff70",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/dMO6IHBvbmVz",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=t%C3%BA+pones%0A&op=translate",
+    "duodef": "you put",
+    "english": "you put",
+    "parts": ""
+  },
+  "lentamente": {
+    "skill": "Storybook",
+    "lexeme_id": "6568d57b3620d1f4e7a1be804c7e81fa",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/lentamente/41da428fd2724912b68df854acd88e6d",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=lentamente%0A&op=translate",
+    "duodef": "slowly, slow",
+    "english": "slowly, slow",
+    "parts": ""
+  },
+  "por fin": {
+    "skill": "History-2",
+    "lexeme_id": "6564be1f8ddef952a74034bbb722c1c8",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/por-fin/6564be1f8ddef952a74034bbb722c1c8",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=por+fin%0A&op=translate",
+    "duodef": "finally, at last",
+    "english": "finally, at last",
+    "parts": ""
+  },
+  "aprobar": {
+    "infinitive": "aprobar",
+    "skill": "LastWeek",
+    "lexeme_id": "1d5073880f03048cc0f8bda414304e5c",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/aprobar/1d5073880f03048cc0f8bda414304e5c",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=aprobar%0A&op=translate",
+    "duodef": null,
+    "english": null,
+    "parts": ""
+  },
+  "dolor": {
+    "skill": "Health",
+    "gender": "Masculine",
+    "lexeme_id": "b2ba33f7cc08ba2f2daffbad09661de4",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/dolor/7803eb49b81b5dc4aa0648329d063eac",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=dolor%0A&op=translate",
+    "duodef": "pain, ache, hurt",
+    "english": "pain, ache, hurt",
+    "parts": ""
+  },
+  "t\u00fa haces": {
+    "skill": "Work-2",
+    "lexeme_id": "a7be700fe2bbfa34920488fc0ebe2fcb",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/dMO6IGhhY2Vz",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=t%C3%BA+haces%0A&op=translate",
+    "duodef": "you do",
+    "english": "you do",
+    "parts": ""
+  },
+  "buen provecho": {
+    "skill": "Delicious",
+    "lexeme_id": "7e87ac606e5a316eba22eb3da9e5a7fa",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/buen-provecho/7e87ac606e5a316eba22eb3da9e5a7fa",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=buen+provecho%0A&op=translate",
+    "duodef": "bon app\u00e9tit",
+    "english": "bon app\u00e9tit",
+    "parts": ""
+  },
+  "pedir": {
+    "skill": "Delicious",
+    "lexeme_id": "906235fab9efca60071d5e38caf812f6",
+    "related_lexemes": [
+      "9fc23d8f6d438060ed263235e51ef412",
+      "d37f37edeb7427fa104d6f10906b42d8"
+    ],
+    "infinitive": "pedir",
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/pedir/d37f37edeb7427fa104d6f10906b42d8",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=pedir%0A&op=translate",
+    "duodef": "ask, (to) ask for, (to) make",
+    "english": "ask, (to) ask for, (to) make",
+    "parts": ""
+  },
+  "hockey": {
+    "skill": "Hobbies",
+    "gender": "Masculine",
+    "lexeme_id": "c64a758e29ab7817a4c854ad54d95190",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/hockey/c64a758e29ab7817a4c854ad54d95190",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=hockey%0A&op=translate",
+    "duodef": "hockey",
+    "english": "hockey",
+    "parts": ""
+  },
+  "medianoche": {
+    "skill": "Social",
+    "gender": "Feminine",
+    "lexeme_id": "d2961343806976fd633363b70c8a02b9",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/medianoche/8797ef2138cd88b5502e628d40b4a99d",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=medianoche%0A&op=translate",
+    "duodef": "midnight",
+    "english": "midnight",
+    "parts": ""
+  },
+  "pasta": {
+    "skill": "Daily-Life",
+    "gender": "Feminine",
+    "lexeme_id": "08bb4120ecb09c3cc4a544af3f119f6d",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/pasta/7f54121095a041ef278d8538f62684d0",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=pasta%0A&op=translate",
+    "duodef": "pasta",
+    "english": "pasta",
+    "parts": ""
+  },
+  "preferir": {
+    "infinitive": "preferir",
+    "skill": "Choices",
+    "lexeme_id": "c08bb1a0592f58be8bb6fd2d0e616b11",
+    "related_lexemes": [
+      "920d97040219d9f35021338a5ed574df"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/preferir/cdaa477a64e5e6c9ca4f4685b9fb083e",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=preferir%0A&op=translate",
+    "duodef": "(to) prefer, prefer, preferred",
+    "english": "(to) prefer, prefer, preferred",
+    "parts": ""
+  },
+  "golf": {
+    "skill": "Choices",
+    "gender": "Masculine",
+    "lexeme_id": "9f9c33eb6119b571e02a13dcb46f6f4b",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/golf/b2e15a77b6c72fff810463df30a54657",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=golf%0A&op=translate",
+    "duodef": "golf",
+    "english": "golf",
+    "parts": ""
+  },
+  "ganar": {
+    "infinitive": "ganar",
+    "skill": "LastWeek",
+    "lexeme_id": "4444099dd1c8541c4f038efa110b3dd5",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/ganar/d034ea06cc6977d83e1efbdd491ff8d8",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=ganar%0A&op=translate",
+    "duodef": "win, (to) win, (he) wins",
+    "english": "win, (to) win, (he) wins",
+    "parts": ""
+  },
+  "durante": {
+    "skill": "Traditions",
+    "lexeme_id": "544e0739c8cef7db5bc7b95d3646542c",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/durante/470aa6c195b6e33aed0f8a53004fc846",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=durante%0A&op=translate",
+    "duodef": "during, for, in",
+    "english": "during, for, in",
+    "parts": ""
+  },
+  "los deportes": {
+    "skill": "Life",
+    "lexeme_id": "ffc2f3b1733ea26ffbb50655222bc13e",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/bG9zIGRlcG9ydGVz",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=los+deportes%0A&op=translate",
+    "duodef": "sports",
+    "english": "sports",
+    "parts": ""
+  },
+  "encender": {
+    "infinitive": "encender",
+    "skill": "Apartment",
+    "lexeme_id": "9f6fa682c0c4f70d8d954863339e395a",
+    "related_lexemes": [
+      "36f4e85aa7386a48fdc91fb9efd5b840"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/encender/9f6fa682c0c4f70d8d954863339e395a",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=encender%0A&op=translate",
+    "duodef": "turning on, light, lit",
+    "english": "turning on, light, lit",
+    "parts": ""
+  },
+  "preparar": {
+    "infinitive": "preparar",
+    "skill": "History-2",
+    "lexeme_id": "d50b074efd634189da17547a46aa0815",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/preparar/f1f98bd3ab8f30f2f6f09f1c677a93d1",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=preparar%0A&op=translate",
+    "duodef": "(to) prepare, (to) make, (to) coach",
+    "english": "(to) prepare, (to) make, (to) coach",
+    "parts": ""
+  },
+  "oye": {
+    "skill": "Social",
+    "lexeme_id": "c7e5e37d4bcf2a3abf11ed965c2ce7b7",
+    "related_lexemes": [
+      "a907d155ae0aa04a5df529881bdce1ac",
+      "34fbd819e89b25e12fb868309ff16707",
+      "b796d05dc31f72f511820e425d44e6f4",
+      "962901c6bbfc1d3e8cbbb6e6887fc362"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/oye/f94f25a333e25f971074c2bf8630bd2c",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=oye%0A&op=translate",
+    "duodef": "hey, (you) hear, hears",
+    "english": "hey, (you) hear, hears",
+    "parts": ""
+  },
+  "me puede traer": {
+    "skill": "Delicious",
+    "lexeme_id": "5868a86583363489e829a018b757e5b7",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/bWUgcHVlZGUgdHJhZXI=",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=me+puede+traer%0A&op=translate",
+    "duodef": "Can you bring me",
+    "english": "Can you bring me",
+    "parts": ""
+  },
+  "pidiendo": {
+    "skill": "Work-3",
+    "lexeme_id": "878215ea58fd9adc64cb9507902e6279",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/pidiendo/878215ea58fd9adc64cb9507902e6279",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=pidiendo%0A&op=translate",
+    "duodef": "ordering, wanting, asking for",
+    "english": "ordering, wanting, asking for",
+    "parts": ""
+  },
+  "frecuentemente": {
+    "skill": "Choices",
+    "lexeme_id": "7306f15750ca619afdca50e0924b5078",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/frecuentemente/c11fcc25c31417827d7c5843709db078",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=frecuentemente%0A&op=translate",
+    "duodef": "often, frequently",
+    "english": "often, frequently",
+    "parts": ""
+  },
+  "rompecabezas": {
+    "skill": "Hobbies",
+    "gender": "Masculine",
+    "lexeme_id": "1abc9d4dc2c50af0a7c423d0e204b289",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/rompecabezas/1abc9d4dc2c50af0a7c423d0e204b289",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=rompecabezas%0A&op=translate",
+    "duodef": "puzzle, puzzles",
+    "english": "puzzle, puzzles",
+    "parts": ""
+  },
+  "darle": {
+    "skill": "School-5",
+    "lexeme_id": "17537485f36e978020f0b1f7b5081707",
+    "related_lexemes": [
+      "4ee2c56ddd4d560dd73669127422a40c",
+      "189b5e52576cd93ad0744ffbca370d30",
+      "fbd87b843d66da9036cfb85b3caa14e6",
+      "9eab5529251aa7114717cbb4785d35d1"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/darle/642944539f7181e5ddbb788eaef1b235",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=darle%0A&op=translate",
+    "duodef": "(to) give him, give, give her",
+    "english": "(to) give him, give, give her",
+    "parts": ""
+  },
+  "qu\u00e9 hacemos": {
+    "skill": "FunPlans",
+    "lexeme_id": "e693b29e7546bf6c893d1bd603051cb7",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/cXXDqSBoYWNlbW9z",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=qu%C3%A9+hacemos%0A&op=translate",
+    "duodef": "what do we do",
+    "english": "what do we do",
+    "parts": ""
+  },
+  "doler": {
+    "infinitive": "doler",
+    "skill": "Health",
+    "lexeme_id": "9b855e15148cf014068987e823faf321",
+    "related_lexemes": [
+      "3fb943bfadca1d6f667db9fcde5ddf55",
+      "342956a57549e036e5946a9b894154a8"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/doler/9b855e15148cf014068987e823faf321",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=doler%0A&op=translate",
+    "duodef": null,
+    "english": null,
+    "parts": ""
+  },
+  "adentro": {
+    "skill": "Work-3",
+    "lexeme_id": "7d1b8f166d37ed4f89c2ad2bd1b62302",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/adentro/4ae923d4fbc52dffa72a10148937c664",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=adentro%0A&op=translate",
+    "duodef": "inside, in, indoors",
+    "english": "inside, in, indoors",
+    "parts": ""
+  },
+  "ciencias": {
+    "skill": "Anecdotes",
+    "gender": "Feminine",
+    "lexeme_id": "1c7c14b8ecff3e6f95d6d6b0bc7cadb8",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/ciencias/20b1d9173f4eeee325eb46e3bed9f667",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=ciencias%0A&op=translate",
+    "duodef": "sciences, science",
+    "english": "sciences, science",
+    "parts": ""
+  },
+  "servicios": {
+    "skill": "Vacation-2",
+    "gender": "Masculine",
+    "lexeme_id": "1ea06de16bae3fa794de0b125896b73f",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/servicios/6966e1ac4de00cdce33096cae3a76249",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=servicios%0A&op=translate",
+    "duodef": "services, bathroom, bathrooms",
+    "english": "services, bathroom, bathrooms",
+    "parts": ""
+  },
+  "qu\u00e9 le parece": {
+    "skill": "Social",
+    "lexeme_id": "5e56375df40a38834292db732ac15d44",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/qu%C3%A9-le%20parece/5e56375df40a38834292db732ac15d44",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=qu%C3%A9+le+parece%0A&op=translate",
+    "duodef": "(?) what do you think",
+    "english": "(?) what do you think",
+    "parts": ""
+  },
+  "descansar": {
+    "infinitive": "descansar",
+    "skill": "Health",
+    "lexeme_id": "f25204ad17254c021f1b576a6bbe98fa",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/descansar/57f119ac476e8a99fa47b11392b71151",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=descansar%0A&op=translate",
+    "duodef": "resting, (to) rest, rest",
+    "english": "resting, (to) rest, rest",
+    "parts": ""
+  },
+  "d\u00eda de acci\u00f3n de gracias": {
+    "skill": "Traditions",
+    "lexeme_id": "ddea100bc6d857ccc18779b3651dca27",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/ZMOtYSBkZSBhY2Npw7NuIGRlIGdyYWNpYXM=",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=d%C3%ADa+de+acci%C3%B3n+de+gracias%0A&op=translate",
+    "duodef": "Thanksgiving Day",
+    "english": "Thanksgiving Day",
+    "parts": ""
+  },
+  "gastar": {
+    "infinitive": "gastar",
+    "skill": "Groceries-2",
+    "lexeme_id": "7029d80ebe3cead3b741e9a22054f280",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/gastar/d38567ad0a8ae2ec2f070915268328c1",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=gastar%0A&op=translate",
+    "duodef": null,
+    "english": null,
+    "parts": ""
+  },
+  "y medio": {
+    "skill": "Groceries-2",
+    "lexeme_id": "6bb6b13972190662b03e96a6aa5ee916",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/eSBtZWRpbw==",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=y+medio%0A&op=translate",
+    "duodef": "and a half",
+    "english": "and a half",
+    "parts": ""
+  },
+  "de ni\u00f1o": {
+    "skill": "Childhood",
+    "lexeme_id": "118f9a93248ddbafc2d055b194463c0f",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/de-ni%C3%B1o/118f9a93248ddbafc2d055b194463c0f",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=de+ni%C3%B1o%0A&op=translate",
+    "duodef": "as a child",
+    "english": "as a child",
+    "parts": ""
+  },
+  "entrar": {
+    "infinitive": "entrar",
+    "skill": "Anecdotes",
+    "lexeme_id": "2d563ee623d92ab85b688b7f0fe7eb60",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/entrar/9192b4fbcbfeec0dce2f24a82fae11c6",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=entrar%0A&op=translate",
+    "duodef": "enter, (to) enter, (to) come in",
+    "english": "enter, (to) enter, (to) come in",
+    "parts": ""
+  },
+  "qu\u00edmica": {
+    "skill": "LastWeek",
+    "gender": "Feminine",
+    "lexeme_id": "9113a015849cc7b592c202080262d77f",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/qu%C3%ADmica/dc3cf1147ffc6944614ef97b216a79e5",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=qu%C3%ADmica%0A&op=translate",
+    "duodef": "chemistry, chemist, chemical",
+    "english": "chemistry, chemist, chemical",
+    "parts": ""
+  },
+  "f\u00e1bricas": {
+    "skill": "Lookitup",
+    "gender": "Feminine",
+    "lexeme_id": "5889caebe5d61be5415ffcff5715d8fa",
+    "related_lexemes": [
+      "93a6973b8f9adea7d0ab9b536499691a"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/f%C3%A1bricas/0099aa2dc472b3e46704570411418057",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=f%C3%A1bricas%0A&op=translate",
+    "duodef": "factories",
+    "english": "factories",
+    "parts": ""
+  },
+  "qu\u00e9 te parece": {
+    "skill": "Social",
+    "lexeme_id": "02804df59d32bb32f8a2b073b0fbbbe0",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/qu%C3%A9-te%20parece/c2e6369722f5b0ca2150b0f83d3433b2",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=qu%C3%A9+te+parece%0A&op=translate",
+    "duodef": "What do you think, (?) How does it sound",
+    "english": "What do you think, (?) How does it sound",
+    "parts": ""
+  },
+  "el espa\u00f1ol": {
+    "skill": "Life",
+    "lexeme_id": "6513bcbcd4feb4256479648bd36fea62",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/ZWwgZXNwYcOxb2w=",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=el+espa%C3%B1ol%0A&op=translate",
+    "duodef": "the Spanish",
+    "english": "the Spanish",
+    "parts": ""
+  },
+  "b\u00e1dminton": {
+    "skill": "Hobbies",
+    "gender": "Masculine",
+    "lexeme_id": "f39ae9a07b8a602023b594581bc57c32",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/b%C3%A1dminton/f39ae9a07b8a602023b594581bc57c32",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=b%C3%A1dminton%0A&op=translate",
+    "duodef": "badminton",
+    "english": "badminton",
+    "parts": ""
+  },
+  "usted va": {
+    "skill": "Work-2",
+    "lexeme_id": "6fd3f1fe36559ae6be4a355d34927f5b",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/dXN0ZWQgdmE=",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=usted+va%0A&op=translate",
+    "duodef": "you go",
+    "english": "you go",
+    "parts": ""
+  },
+  "navegar": {
+    "infinitive": "navegar",
+    "skill": "Hobbies",
+    "lexeme_id": "61681c2acf9c39ac253446249c7710f5",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/navegar/178ed0c003f736510c3da49d86596eea",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=navegar%0A&op=translate",
+    "duodef": null,
+    "english": null,
+    "parts": ""
+  },
+  "ocurrir": {
+    "infinitive": "ocurrir",
+    "skill": "History-2",
+    "lexeme_id": "2b3669d013c98cc6a2dd5bb05a3b5fb4",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/ocurrir/1345431db9641e5bb8621f370c2f1925",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=ocurrir%0A&op=translate",
+    "duodef": "(to) happen, (to) occur, come",
+    "english": "(to) happen, (to) occur, come",
+    "parts": ""
+  },
+  "navidad": {
+    "skill": "Traditions",
+    "gender": "Feminine",
+    "lexeme_id": "5571c8bb6d12f1cd4830be489f8bd966",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/navidad/9f033a8f30fe64f2feeabe06bfcb938b",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=navidad%0A&op=translate",
+    "duodef": "Christmas",
+    "english": "Christmas",
+    "parts": ""
+  },
+  "deber": {
+    "infinitive": "deber",
+    "skill": "Health",
+    "lexeme_id": "bcddcc3a4d0748a580b50780261d0422",
+    "related_lexemes": [
+      "5d61ea46b6436c37821b9c6c43783499"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/deber/d883c85404b27b3ee6b35724ffdc35ed",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=deber%0A&op=translate",
+    "duodef": "duty, assignment, (to) owe",
+    "english": "duty, assignment, (to) owe",
+    "parts": ""
+  },
+  "servir": {
+    "infinitive": "servir",
+    "skill": "Delicious",
+    "lexeme_id": "276952136870844fc7107eab58e29201",
+    "related_lexemes": [
+      "07fff626737cc1f3271da2e5f7fb76e2"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/servir/f19b12747bf2f8ac268f64dc5b6c6d6b",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=servir%0A&op=translate",
+    "duodef": null,
+    "english": null,
+    "parts": ""
+  },
+  "darte": {
+    "skill": "School-5",
+    "lexeme_id": "189b5e52576cd93ad0744ffbca370d30",
+    "related_lexemes": [
+      "4ee2c56ddd4d560dd73669127422a40c",
+      "17537485f36e978020f0b1f7b5081707",
+      "fbd87b843d66da9036cfb85b3caa14e6",
+      "9eab5529251aa7114717cbb4785d35d1"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/darte/ef5c1f6ccc993873a603466c2c36a5cc",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=darte%0A&op=translate",
+    "duodef": "give you",
+    "english": "give you",
+    "parts": ""
+  },
+  "mover": {
+    "infinitive": "mover",
+    "skill": "Health",
+    "lexeme_id": "27c297180927ba653fbcf17187b03f70",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/mover/dd3b7899f066a24f3bafe2313d2b5ab2",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=mover%0A&op=translate",
+    "duodef": "driven, move, get around",
+    "english": "driven, move, get around",
+    "parts": ""
+  },
+  "el f\u00fatbol": {
+    "skill": "Life",
+    "lexeme_id": "f6936248d4fec9278c8a35955dfd098b",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/ZWwgZsO6dGJvbA==",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=el+f%C3%BAtbol%0A&op=translate",
+    "duodef": "football",
+    "english": "football",
+    "parts": ""
+  },
+  "verdad": {
+    "skill": "Lookitup",
+    "gender": "Feminine",
+    "lexeme_id": "6b806f263ddade92145a7ffdae1ca39c",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/verdad/74679f45f86d86cece513c3befd88e72",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=verdad%0A&op=translate",
+    "duodef": "(?) am I, (?) are they, (?) aren't there",
+    "english": "(?) am I, (?) are they, (?) aren't there",
+    "parts": ""
+  },
+  "decirles": {
+    "skill": "School-5",
+    "lexeme_id": "e67c7a4a4d1398d43007101240729dc2",
+    "related_lexemes": [
+      "4d48d1f8103b3ceb27795a610ac7635b",
+      "ea256ca56a1684551a2cbcb6dfc845df",
+      "e03a812edb20131d356d988c8239d2de",
+      "d33820e64165a8e78d27c34a0dc6d915",
+      "896377f68f163f4a3e874a9d92fdc7b1",
+      "7420c68e747b9653f04f135096b699b0",
+      "7faf6d38189c21cf7a000bc44f64df6b",
+      "4eb6f841768a4300131113e7004447a5",
+      "828ee949d379aaad84eb3f150e3818ca",
+      "dbd620bd90fbb6034e85e38e01607afc",
+      "95e0860a25cba2b50b24a247bcb77dc2"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/decirles/e67c7a4a4d1398d43007101240729dc2",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=decirles%0A&op=translate",
+    "duodef": "(to) tell them, tell",
+    "english": "(to) tell them, tell",
+    "parts": ""
+  },
+  "darme": {
+    "skill": "School-5",
+    "lexeme_id": "fbd87b843d66da9036cfb85b3caa14e6",
+    "related_lexemes": [
+      "4ee2c56ddd4d560dd73669127422a40c",
+      "17537485f36e978020f0b1f7b5081707",
+      "189b5e52576cd93ad0744ffbca370d30",
+      "9eab5529251aa7114717cbb4785d35d1"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/darme/fbd87b843d66da9036cfb85b3caa14e6",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=darme%0A&op=translate",
+    "duodef": "(to) give me, giving me",
+    "english": "(to) give me, giving me",
+    "parts": ""
+  },
+  "de vez en cuando": {
+    "skill": "Choices",
+    "lexeme_id": "7c2b14521402b2cc7c5c402a00312e0b",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/de-vez%20en%20cuando/fe9efc7c2425f5f2dfdc6eb265d6619c",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=de+vez+en+cuando%0A&op=translate",
+    "duodef": "once in a while, sometimes, now and then",
+    "english": "once in a while, sometimes, now and then",
+    "parts": ""
+  },
+  "balonmano": {
+    "skill": "LastWeek",
+    "gender": "Masculine",
+    "lexeme_id": "78058fd1871fe2beb3141b732556384b",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/balonmano/78058fd1871fe2beb3141b732556384b",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=balonmano%0A&op=translate",
+    "duodef": "handball",
+    "english": "handball",
+    "parts": ""
+  },
+  "creo que deber\u00eda": {
+    "skill": "Apartment",
+    "lexeme_id": "106b40b00aceffbad885221964541e96",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/Y3JlbyBxdWUgZGViZXLDrWE=",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=creo+que+deber%C3%ADa%0A&op=translate",
+    "duodef": "I think I should",
+    "english": "I think I should",
+    "parts": ""
+  },
+  "el ciclismo": {
+    "skill": "Life",
+    "lexeme_id": "3ea61b0a39bfb231453f7e41932efcec",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/ZWwgY2ljbGlzbW8=",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=el+ciclismo%0A&op=translate",
+    "duodef": "cycling",
+    "english": "cycling",
+    "parts": ""
+  },
+  "sin duda": {
+    "skill": "Narrative",
+    "lexeme_id": "5512a6b06cfe5dee9889b1fcfcd4102f",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/sin-duda/5512a6b06cfe5dee9889b1fcfcd4102f",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=sin+duda%0A&op=translate",
+    "duodef": "certainly, definitely, surely",
+    "english": "certainly, definitely, surely",
+    "parts": ""
+  },
+  "decirme": {
+    "skill": "School-5",
+    "lexeme_id": "4eb6f841768a4300131113e7004447a5",
+    "related_lexemes": [
+      "4d48d1f8103b3ceb27795a610ac7635b",
+      "ea256ca56a1684551a2cbcb6dfc845df",
+      "e03a812edb20131d356d988c8239d2de",
+      "d33820e64165a8e78d27c34a0dc6d915",
+      "896377f68f163f4a3e874a9d92fdc7b1",
+      "7420c68e747b9653f04f135096b699b0",
+      "7faf6d38189c21cf7a000bc44f64df6b",
+      "e67c7a4a4d1398d43007101240729dc2",
+      "828ee949d379aaad84eb3f150e3818ca",
+      "dbd620bd90fbb6034e85e38e01607afc",
+      "95e0860a25cba2b50b24a247bcb77dc2"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/decirme/b5462fc47f1d4584138084242547ef24",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=decirme%0A&op=translate",
+    "duodef": "(to) tell me, telling me",
+    "english": "(to) tell me, telling me",
+    "parts": ""
+  },
+  "desafortunadamente": {
+    "skill": "FunPlans",
+    "lexeme_id": "d27eef8daacd221ecd260960ec6dedea",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/desafortunadamente/d27eef8daacd221ecd260960ec6dedea",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=desafortunadamente%0A&op=translate",
+    "duodef": "unfortunately",
+    "english": "unfortunately",
+    "parts": ""
+  },
+  "los m\u00e9dicos": {
+    "skill": "Life",
+    "lexeme_id": "c2a5874ee2de7bf1f09a36933a463256",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/bG9zIG3DqWRpY29z",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=los+m%C3%A9dicos%0A&op=translate",
+    "duodef": "the doctors",
+    "english": "the doctors",
+    "parts": ""
+  },
+  "alcohol": {
+    "skill": "Delicious",
+    "gender": "Masculine",
+    "lexeme_id": "ef291a7ccce066eea848c28958b24491",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/alcohol/c4c901cc893ddf913c1f9124a3667211",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=alcohol%0A&op=translate",
+    "duodef": "alcohol",
+    "english": "alcohol",
+    "parts": ""
+  },
+  "decidir": {
+    "infinitive": "decidir",
+    "skill": "History-2",
+    "lexeme_id": "116ff3d64f54e5db1c207dac1e69cbde",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/decidir/8840e0f97e4826a5127978f656eb3b2c",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=decidir%0A&op=translate",
+    "duodef": "deciding, (to) decide, decides",
+    "english": "deciding, (to) decide, decides",
+    "parts": ""
+  },
+  "en todas partes": {
+    "skill": "Vacation-2",
+    "lexeme_id": "7608d1dd89b062766baf8aca8a5a41de",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/en-todas%20partes/7608d1dd89b062766baf8aca8a5a41de",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=en+todas+partes%0A&op=translate",
+    "duodef": "everywhere",
+    "english": "everywhere",
+    "parts": ""
+  },
+  "nochebuena": {
+    "skill": "Traditions",
+    "gender": "Feminine",
+    "lexeme_id": "bf475b8216328b1e3b70bfd1b0d22d2a",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/nochebuena/c50e959554bf804eb0421871466715ba",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=nochebuena%0A&op=translate",
+    "duodef": "Christmas Eve",
+    "english": "Christmas Eve",
+    "parts": ""
+  },
+  "rugby": {
+    "skill": "Anecdotes",
+    "gender": "Masculine",
+    "lexeme_id": "cfa8c76a9045b4ee642d4d6114c1dd50",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/rugby/cfa8c76a9045b4ee642d4d6114c1dd50",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=rugby%0A&op=translate",
+    "duodef": "rugby",
+    "english": "rugby",
+    "parts": ""
+  },
+  "chef": {
+    "skill": "Delicious",
+    "lexeme_id": "4329e5d29143de9554175ca5451a1c90",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/chef/6f1e095699f1720673d3c03fc10b927d",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=chef%0A&op=translate",
+    "duodef": "chef",
+    "english": "chef",
+    "parts": ""
+  },
+  "c\u00f3mo te va": {
+    "skill": "Social",
+    "lexeme_id": "7ff36c63e07e13ad7ff88628e52f8ff6",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/c%C3%B3mo-te%20va/7ff36c63e07e13ad7ff88628e52f8ff6",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=c%C3%B3mo+te+va%0A&op=translate",
+    "duodef": "how's it going",
+    "english": "how's it going",
+    "parts": ""
+  },
+  "estar de acuerdo": {
+    "skill": "MagicLand",
+    "lexeme_id": "2f6785aad937402d4071aa140d46891f",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/estar-de%20acuerdo/2f6785aad937402d4071aa140d46891f",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=estar+de+acuerdo%0A&op=translate",
+    "duodef": "agreed, agree",
+    "english": "agreed, agree",
+    "parts": ""
+  },
+  "mediod\u00eda": {
+    "skill": "Social",
+    "gender": "Masculine",
+    "lexeme_id": "da25ed3b50afc6cd283807d9df8d3710",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/mediod%C3%ADa/b5abeba369dead22972a9ab28c0d054e",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=mediod%C3%ADa%0A&op=translate",
+    "duodef": "noon, midday",
+    "english": "noon, midday",
+    "parts": ""
+  },
+  "recibir": {
+    "infinitive": "recibir",
+    "skill": "Memories-2",
+    "lexeme_id": "46244426b27e5e9b779b13d8b82f80fc",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/recibir/cf9d6ff825f63ebc2f57f1ae1511c398",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=recibir%0A&op=translate",
+    "duodef": "(to) receive, (to) get, take",
+    "english": "(to) receive, (to) get, take",
+    "parts": ""
+  },
+  "qui\u00e9nes": {
+    "skill": "Social",
+    "lexeme_id": "a936fbe1906b2ac5e5286b4fbe9bfd8b",
+    "related_lexemes": [
+      "769a9f0df193b5733be268d5dc9b9153"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/qui%C3%A9nes/021805f2658488362ae857f9de29bf02",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=qui%C3%A9nes%0A&op=translate",
+    "duodef": "who, who all, whom",
+    "english": "who, who all, whom",
+    "parts": ""
+  },
+  "repetir": {
+    "infinitive": "repetir",
+    "skill": "Work-3",
+    "lexeme_id": "67d40d6edd627cb101a0bc5042a6b2fd",
+    "related_lexemes": [
+      "ab857d6bc28b91fae5a06e218c33a7ba"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/repetir/f973f55862fdda0b9ff728f0aa0bb10c",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=repetir%0A&op=translate",
+    "duodef": null,
+    "english": null,
+    "parts": ""
+  },
+  "ciclismo": {
+    "skill": "FunPlans",
+    "gender": "Masculine",
+    "lexeme_id": "fb19d4332da7e822e2190c93f07957f8",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/ciclismo/fb19d4332da7e822e2190c93f07957f8",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=ciclismo%0A&op=translate",
+    "duodef": "cycling",
+    "english": "cycling",
+    "parts": ""
+  },
+  "las frutas": {
+    "skill": "Life",
+    "lexeme_id": "4a58b10733f556ee2450399e30ce3743",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/bGFzIGZydXRhcw==",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=las+frutas%0A&op=translate",
+    "duodef": "the fruits",
+    "english": "the fruits",
+    "parts": ""
+  },
+  "abuelito": {
+    "skill": "Memories-2",
+    "gender": "Masculine",
+    "lexeme_id": "3bc1374aabe268e62e10dec8ac380391",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/abuelito/3bc1374aabe268e62e10dec8ac380391",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=abuelito%0A&op=translate",
+    "duodef": "grandpa",
+    "english": "grandpa",
+    "parts": ""
+  },
+  "enviar": {
+    "infinitive": "enviar",
+    "skill": "Lookitup",
+    "lexeme_id": "84c349d20558d80401c2da8fb67ec09d",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/enviar/e6c9849afb5f4a0d0e85a7bfad1b935f",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=enviar%0A&op=translate",
+    "duodef": "(to) send, getting, send",
+    "english": "(to) send, getting, send",
+    "parts": ""
+  },
+  "los padres": {
+    "skill": "Life",
+    "lexeme_id": "53e457d94ba7697b9e14a98c761c64b7",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/bG9zIHBhZHJlcw==",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=los+padres%0A&op=translate",
+    "duodef": "parents",
+    "english": "parents",
+    "parts": ""
+  },
+  "el ajedrez": {
+    "skill": "Life",
+    "lexeme_id": "795d534db926eab9849a44bd95e8e793",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/ZWwgYWplZHJleg==",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=el+ajedrez%0A&op=translate",
+    "duodef": "the chess",
+    "english": "the chess",
+    "parts": ""
+  },
+  "r\u00e1pido": {
+    "skill": "Life",
+    "lexeme_id": "1c08cd3d8d39cb3c54b050c0ac80fa70",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/r%C3%A1pido/decd24c30901ce79cca67c33130bfce6",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=r%C3%A1pido%0A&op=translate",
+    "duodef": "fast, quickly, quick",
+    "english": "fast, quickly, quick",
+    "parts": ""
+  },
+  "de ni\u00f1a": {
+    "skill": "Childhood",
+    "lexeme_id": "9a535831779dbdd0025ff90bd5b33188",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/ZGUgbmnDsWE=",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=de+ni%C3%B1a%0A&op=translate",
+    "duodef": "of girl",
+    "english": "of girl",
+    "parts": ""
+  },
+  "los perros": {
+    "skill": "Life",
+    "lexeme_id": "a312b6c5b25d6978b181630987b9e354",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/bG9zIHBlcnJvcw==",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=los+perros%0A&op=translate",
+    "duodef": "dogs",
+    "english": "dogs",
+    "parts": ""
+  },
+  "paraguas": {
+    "skill": "Narrative",
+    "gender": "Masculine",
+    "lexeme_id": "4cf4308643143944f71844537e42d742",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/paraguas/9215a5d667bb8973e13896e61413ce73",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=paraguas%0A&op=translate",
+    "duodef": "umbrella, umbrellas",
+    "english": "umbrella, umbrellas",
+    "parts": ""
+  },
+  "acompa\u00f1ar": {
+    "infinitive": "acompa\u00f1ar",
+    "skill": "Social",
+    "lexeme_id": "a9b4e29d97f2223431d5f60560f3b1f2",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/acompa%C3%B1ar/e4dd9715cf0b6330f5cd41a7ced7a1fd",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=acompa%C3%B1ar%0A&op=translate",
+    "duodef": null,
+    "english": null,
+    "parts": ""
+  },
+  "salud": {
+    "skill": "Health",
+    "gender": "Feminine",
+    "lexeme_id": "29350f5e28d3e7981ae5e83725e57962",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/salud/14ac732faca884e13de8679093e8d99f",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=salud%0A&op=translate",
+    "duodef": "health, bless you, cheers",
+    "english": "health, bless you, cheers",
+    "parts": ""
+  },
+  "grand\u00edsimo": {
+    "skill": "Choices",
+    "gender": "Masculine",
+    "lexeme_id": "81d5f8beeb27d2b2f8234fea16cb9b20",
+    "related_lexemes": [
+      "7f0ea4d40cd20d7e6ac1cb453412fba1",
+      "3ae075387adc12c7ceae513781b5da35",
+      "08a3872e44a201481524294a566afa50"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/grand%C3%ADsimo/81d5f8beeb27d2b2f8234fea16cb9b20",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=grand%C3%ADsimo%0A&op=translate",
+    "duodef": "really big",
+    "english": "really big",
+    "parts": ""
+  },
+  "generalmente": {
+    "skill": "Choices",
+    "lexeme_id": "271c7c756047717a2c9d33f9f3a81eef",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/generalmente/b13bd227225dccbdd86f5a29158764ea",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=generalmente%0A&op=translate",
+    "duodef": "generally, usually, mostly",
+    "english": "generally, usually, mostly",
+    "parts": ""
+  },
+  "hip-hop": {
+    "skill": "FunPlans",
+    "lexeme_id": "3616f562563b97038045a8b713267617",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/hip-hop/3616f562563b97038045a8b713267617",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=hip-hop%0A&op=translate",
+    "duodef": "hip-hop",
+    "english": "hip-hop",
+    "parts": ""
+  },
+  "apagar": {
+    "infinitive": "apagar",
+    "skill": "Apartment",
+    "lexeme_id": "e1cfe6de75b927edf22e2da3d002e3c6",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/apagar/e1cfe6de75b927edf22e2da3d002e3c6",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=apagar%0A&op=translate",
+    "duodef": "(to) turn off, cut, kill",
+    "english": "(to) turn off, cut, kill",
+    "parts": ""
+  },
+  "jazz": {
+    "skill": "FunPlans",
+    "gender": "Masculine",
+    "lexeme_id": "15cdd6263aa0be7ca47fe4a7b4c8d93a",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/jazz/15cdd6263aa0be7ca47fe4a7b4c8d93a",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=jazz%0A&op=translate",
+    "duodef": "jazz",
+    "english": "jazz",
+    "parts": ""
+  },
+  "t\u00fa vas": {
+    "skill": "Work-2",
+    "lexeme_id": "9f22ac0419c7eb7c72b6c53be014d789",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/dMO6IHZhcw==",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=t%C3%BA+vas%0A&op=translate",
+    "duodef": "you go",
+    "english": "you go",
+    "parts": ""
+  },
+  "llorar": {
+    "infinitive": "llorar",
+    "skill": "Storybook",
+    "lexeme_id": "f9a2a4af72590ab092ada63bfbb253fb",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/llorar/f62398d1779150c1b3c5597656165ee0",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=llorar%0A&op=translate",
+    "duodef": "(to) cry, crying",
+    "english": "(to) cry, crying",
+    "parts": ""
+  },
+  "prestar": {
+    "infinitive": "prestar",
+    "skill": "Hobbies",
+    "lexeme_id": "fe574a2b57fbc39adea6c2d3e9eaad89",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/prestar/d182c91d1d73fadf74f25b7a37fe4ee4",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=prestar%0A&op=translate",
+    "duodef": "borrow, (to) borrow, (to) lend",
+    "english": "borrow, (to) borrow, (to) lend",
+    "parts": ""
+  },
+  "jam\u00e1s": {
+    "skill": "Work-2",
+    "lexeme_id": "54259d113903245fd580028572afc118",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/jam%C3%A1s/796161d84777b03f1ab5227bf27de1d6",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=jam%C3%A1s%0A&op=translate",
+    "duodef": "never, ever",
+    "english": "never, ever",
+    "parts": ""
+  },
+  "el baloncesto": {
+    "skill": "Life",
+    "lexeme_id": "19a72c33dfd40c11cf9f2e52d9a7c62a",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/ZWwgYmFsb25jZXN0bw==",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=el+baloncesto%0A&op=translate",
+    "duodef": "basketball",
+    "english": "basketball",
+    "parts": ""
+  },
+  "acostarse": {
+    "skill": "Choices",
+    "lexeme_id": "a6e921076b41b10b9d32fcff774db339",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/acostarse/a6e921076b41b10b9d32fcff774db339",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=acostarse%0A&op=translate",
+    "duodef": "(to) go to bed, (to) lie down, going to bed",
+    "english": "(to) go to bed, (to) lie down, going to bed",
+    "parts": ""
+  },
+  "afuera": {
+    "skill": "Work-3",
+    "lexeme_id": "35e08e27e66dbbb399c00cc13e3cca0e",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/afuera/b7ee676d6750c37e7fc37fc5dc563c91",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=afuera%0A&op=translate",
+    "duodef": "outside, out, out of town",
+    "english": "outside, out, out of town",
+    "parts": ""
+  },
+  "usted hace": {
+    "skill": "Work-2",
+    "lexeme_id": "92971bd2514afec0a78889528a9f2d6b",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/dXN0ZWQgaGFjZQ==",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=usted+hace%0A&op=translate",
+    "duodef": "you do",
+    "english": "you do",
+    "parts": ""
+  },
+  "pop": {
+    "skill": "Hobbies",
+    "gender": "Masculine",
+    "lexeme_id": "d8ef6301b0b4d2dfb2ac167e8cdee378",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/pop/d8ef6301b0b4d2dfb2ac167e8cdee378",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=pop%0A&op=translate",
+    "duodef": "pop",
+    "english": "pop",
+    "parts": ""
+  },
+  "cansad\u00edsimo": {
+    "skill": "Choices",
+    "gender": "Masculine",
+    "lexeme_id": "f6e8f83b35f9f23cd99600649d8924f8",
+    "related_lexemes": [
+      "31a68a80035e829401e8c0ca9fac9666",
+      "dab5e84c022049854d9baf4090b41498"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/cansad%C3%ADsimo/f6e8f83b35f9f23cd99600649d8924f8",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=cansad%C3%ADsimo%0A&op=translate",
+    "duodef": "really tired",
+    "english": "really tired",
+    "parts": ""
+  },
+  "intentar": {
+    "infinitive": "intentar",
+    "skill": "Storybook",
+    "lexeme_id": "b3a2476234959c39737abee14cba7e83",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/intentar/d51284401333d48f8c7ff9fb58bcd8ea",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=intentar%0A&op=translate",
+    "duodef": "try, trying",
+    "english": "try, trying",
+    "parts": ""
+  },
+  "esquiar": {
+    "infinitive": "esquiar",
+    "skill": "Hobbies",
+    "lexeme_id": "9a9271e9b4a54e8fc93279dcf5dc500b",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/esquiar/da09369617df24f8bc29d35f86ef37fb",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=esquiar%0A&op=translate",
+    "duodef": "ski, to ski, skiing",
+    "english": "ski, to ski, skiing",
+    "parts": ""
+  },
+  "vestirse": {
+    "skill": "Daily-Life",
+    "lexeme_id": "a9aa45748fe7d9e5f629b5172f127d7a",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/vestirse/a9aa45748fe7d9e5f629b5172f127d7a",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=vestirse%0A&op=translate",
+    "duodef": "dressed, dress, to get dressed",
+    "english": "dressed, dress, to get dressed",
+    "parts": ""
+  },
+  "conversar": {
+    "infinitive": "conversar",
+    "skill": "Social",
+    "lexeme_id": "f3d6d5f4a8dd6f401146a73ae8f0e5cd",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/conversar/f3d6d5f4a8dd6f401146a73ae8f0e5cd",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=conversar%0A&op=translate",
+    "duodef": "(to) talk, (to) chat, talk",
+    "english": "(to) talk, (to) chat, talk",
+    "parts": ""
+  },
+  "panes": {
+    "skill": "Delicious",
+    "gender": "Masculine",
+    "lexeme_id": "b9ebe908de65aaa83e0ac4a20689ef74",
+    "related_lexemes": [
+      "389d16a7713404bf18de999b57a54eae"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/panes/b9ebe908de65aaa83e0ac4a20689ef74",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=panes%0A&op=translate",
+    "duodef": "bread",
+    "english": "bread",
+    "parts": ""
+  },
+  "el ingl\u00e9s": {
+    "skill": "Life",
+    "lexeme_id": "b847da81bdecc40a02d62a5b7b34bbb5",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/ZWwgaW5nbMOpcw==",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=el+ingl%C3%A9s%0A&op=translate",
+    "duodef": "English",
+    "english": "English",
+    "parts": ""
+  },
+  "geograf\u00eda": {
+    "skill": "Nostalgia",
+    "gender": "Feminine",
+    "lexeme_id": "1e66cd101248a3c82a4b59e243110184",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/geograf%C3%ADa/ac2a23a6e0cdc38a3ef8aad5c3282472",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=geograf%C3%ADa%0A&op=translate",
+    "duodef": "geography",
+    "english": "geography",
+    "parts": ""
+  },
+  "qu\u00e9 tal si": {
+    "skill": "FunPlans",
+    "lexeme_id": "3026047d1174181fb53e9d721f4b65c7",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/cXXDqSB0YWwgc2k=",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=qu%C3%A9+tal+si%0A&op=translate",
+    "duodef": "what if",
+    "english": "what if",
+    "parts": ""
+  },
+  "probablemente": {
+    "skill": "Narrative",
+    "lexeme_id": "23c2f34f6c0d8732c9e6b0885a10645b",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/probablemente/a9966843340374c6fc3ab45cd7962ab9",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=probablemente%0A&op=translate",
+    "duodef": "probably, likely",
+    "english": "probably, likely",
+    "parts": ""
+  },
+  "dulces": {
+    "skill": "Nostalgia",
+    "gender": "Masculine",
+    "lexeme_id": "0d7a51f414c15522787062feaeecd008",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/dulces/bc04f115ce10dbdc5e3589a5e027108b",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=dulces%0A&op=translate",
+    "duodef": "sweets, candy, candies",
+    "english": "sweets, candy, candies",
+    "parts": ""
+  },
+  "los gatos": {
+    "skill": "Life",
+    "lexeme_id": "dafc709134df18f37ab5a1da509c2168",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/bG9zIGdhdG9z",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=los+gatos%0A&op=translate",
+    "duodef": "the cats",
+    "english": "the cats",
+    "parts": ""
+  },
+  "romper": {
+    "infinitive": "romper",
+    "skill": "Narrative",
+    "lexeme_id": "4539eadc0684f4cfea25e5f12673ca24",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/romper/cf677a539983852cfd293191c48f45e0",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=romper%0A&op=translate",
+    "duodef": "(to) break, break, breaking up",
+    "english": "(to) break, break, breaking up",
+    "parts": ""
+  },
+  "decirnos": {
+    "skill": "School-5",
+    "lexeme_id": "dbd620bd90fbb6034e85e38e01607afc",
+    "related_lexemes": [
+      "4d48d1f8103b3ceb27795a610ac7635b",
+      "ea256ca56a1684551a2cbcb6dfc845df",
+      "e03a812edb20131d356d988c8239d2de",
+      "d33820e64165a8e78d27c34a0dc6d915",
+      "896377f68f163f4a3e874a9d92fdc7b1",
+      "7420c68e747b9653f04f135096b699b0",
+      "7faf6d38189c21cf7a000bc44f64df6b",
+      "e67c7a4a4d1398d43007101240729dc2",
+      "4eb6f841768a4300131113e7004447a5",
+      "828ee949d379aaad84eb3f150e3818ca",
+      "95e0860a25cba2b50b24a247bcb77dc2"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/decirnos/dbd620bd90fbb6034e85e38e01607afc",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=decirnos%0A&op=translate",
+    "duodef": "tell us, (to) think (us), (to) say (us)",
+    "english": "tell us, (to) think (us), (to) say (us)",
+    "parts": ""
+  },
+  "c\u00f3mo le va": {
+    "skill": "Social",
+    "lexeme_id": "f3501702aeecf7a4ae519c98c41fb41a",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/Y8OzbW8gbGUgdmE=",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=c%C3%B3mo+le+va%0A&op=translate",
+    "duodef": "how are you",
+    "english": "how are you",
+    "parts": ""
+  },
+  "miles": {
+    "skill": "History-2",
+    "gender": "Masculine",
+    "lexeme_id": "6f83056a8f367aea29e5981f4ad0be9d",
+    "related_lexemes": [
+      "56460f568642d9bd5d7c144bd544fedc"
+    ],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/miles/d2676dae14786ead025a95a46c7157aa",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=miles%0A&op=translate",
+    "duodef": "thousands, billions",
+    "english": "thousands, billions",
+    "parts": ""
+  },
+  "algo m\u00e1s": {
+    "skill": "Delicious",
+    "lexeme_id": "1b597f6cb16e37b5366526651f29034c",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/YWxnbyBtw6Fz",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=algo+m%C3%A1s%0A&op=translate",
+    "duodef": "anything else",
+    "english": "anything else",
+    "parts": ""
+  },
+  "muebles": {
+    "skill": "Apartment",
+    "gender": "Masculine",
+    "lexeme_id": "9c1b1c96fd2b00b1fcaba38465277bde",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/muebles/c223d1b32840792e11c455d320edde31",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=muebles%0A&op=translate",
+    "duodef": "furniture",
+    "english": "furniture",
+    "parts": ""
+  },
+  "traje": {
+    "infinitive": "traje",
+    "skill": "Memories-2",
+    "lexeme_id": "abd2a37f0d2e0047123a637175200c2b",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/traje/ed69398ab8bb436c280ee9ab004b18ac",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=traje%0A&op=translate",
+    "duodef": "suit, (I) brought",
+    "english": "suit, (I) brought",
+    "parts": ""
+  },
+  "gram\u00e1tica": {
+    "skill": "Life",
+    "gender": "Feminine",
+    "lexeme_id": "29d95efec95e3a896e8e1627d7bd0017",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/gram%C3%A1tica/29d95efec95e3a896e8e1627d7bd0017",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=gram%C3%A1tica%0A&op=translate",
+    "duodef": "grammar",
+    "english": "grammar",
+    "parts": ""
+  },
+  "ajedrez": {
+    "skill": "Choices",
+    "gender": "Masculine",
+    "lexeme_id": "b569ff80ff5b562b869c66621b470bd4",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/ajedrez/b569ff80ff5b562b869c66621b470bd4",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=ajedrez%0A&op=translate",
+    "duodef": "chess",
+    "english": "chess",
+    "parts": ""
+  },
+  "nos acostamos": {
+    "skill": "Choices",
+    "lexeme_id": "175d787a107fe95a63caa9b94fc08a10",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/bm9zIGFjb3N0YW1vcw==",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=nos+acostamos%0A&op=translate",
+    "duodef": null,
+    "english": null,
+    "parts": ""
+  },
+  "hab\u00eda una vez": {
+    "skill": "Storybook",
+    "lexeme_id": "93d773c541b9273036bf50b6b0eabd1b",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/hab%C3%ADa-una%20vez/93d773c541b9273036bf50b6b0eabd1b",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=hab%C3%ADa+una+vez%0A&op=translate",
+    "duodef": "once upon a time",
+    "english": "once upon a time",
+    "parts": ""
+  },
+  "gafas de sol": {
+    "skill": "Narrative",
+    "lexeme_id": "ec98424aabc6e16f07032de5879cb5ef",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/gafas-de%20sol/ec98424aabc6e16f07032de5879cb5ef",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=gafas+de+sol%0A&op=translate",
+    "duodef": "sunglasses",
+    "english": "sunglasses",
+    "parts": ""
+  },
+  "usted pone": {
+    "skill": "Work-2",
+    "lexeme_id": "3d00b6a38f357d654617de404f1be047",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/dXN0ZWQgcG9uZQ==",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=usted+pone%0A&op=translate",
+    "duodef": "you put",
+    "english": "you put",
+    "parts": ""
+  },
+  "los lunes": {
+    "skill": "Life",
+    "lexeme_id": "43b85709b7804e773ea217ffb80680a3",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/bG9zIGx1bmVz",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=los+lunes%0A&op=translate",
+    "duodef": "on Monday",
+    "english": "on Monday",
+    "parts": ""
+  },
+  "hay que": {
+    "skill": "Health",
+    "lexeme_id": "f48124acc4371d03e77f3e36e7406b17",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/hay-que/f48124acc4371d03e77f3e36e7406b17",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=hay+que%0A&op=translate",
+    "duodef": "we've got to, one must",
+    "english": "we've got to, one must",
+    "parts": ""
+  },
+  "nochevieja": {
+    "skill": "Traditions",
+    "gender": "Feminine",
+    "lexeme_id": "4c8cd74645415e22293a2ab4627984eb",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/bm9jaGV2aWVqYQ==",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=nochevieja%0A&op=translate",
+    "duodef": "New Years Eve",
+    "english": "New Years Eve",
+    "parts": ""
+  },
+  "all\u00ed": {
+    "skill": "Choices",
+    "lexeme_id": "48caa96ec840ecefdc2eaa911c58dbf2",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/all%C3%AD/e11ccea6ece1a2e1e4dd3ef1be636ae5",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=all%C3%AD%0A&op=translate",
+    "duodef": "there, in there",
+    "english": "there, in there",
+    "parts": ""
+  },
+  "en oferta": {
+    "skill": "Groceries-2",
+    "lexeme_id": "065a2860e4e6c36f402ca274727a27fd",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/es/translation/en/ZW4gb2ZlcnRh",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=en+oferta%0A&op=translate",
+    "duodef": "in offer",
+    "english": "in offer",
+    "parts": ""
+  },
+  "internet": {
+    "skill": "Lookitup",
+    "gender": "Masculine",
+    "lexeme_id": "fbb80ccd1864850ce2b0bcf817153224",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/internet/b1b37d93948de164b4cc2ed14292d3c0",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=internet%0A&op=translate",
+    "duodef": "Internet, online, web",
+    "english": "Internet, online, web",
+    "parts": ""
+  },
+  "excepto": {
+    "skill": "Narrative",
+    "lexeme_id": "07c787ffbb2b612f6e5ff6602b3ecf60",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/excepto/61def3d7f2bc6b93e16aa8c3982bfb3d",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=excepto%0A&op=translate",
+    "duodef": "except",
+    "english": "except",
+    "parts": ""
+  },
+  "donde": {
+    "skill": "Social",
+    "lexeme_id": "bcf224d04683aa24ef0221574f7317e2",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/donde/eac167b04c5afee0bdaf3f5900dd0188",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=donde%0A&op=translate",
+    "duodef": "where, when",
+    "english": "where, when",
+    "parts": ""
+  },
+  "informaci\u00f3n": {
+    "skill": "Lookitup",
+    "gender": "Feminine",
+    "lexeme_id": "634be93824ef036decebd3ca2dc100b2",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/informaci%C3%B3n/b5d06c1118a5751b6d752ff23b0e440a",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=informaci%C3%B3n%0A&op=translate",
+    "duodef": "information",
+    "english": "information",
+    "parts": ""
+  },
+  "reparar": {
+    "infinitive": "reparar",
+    "skill": "Anecdotes",
+    "lexeme_id": "3d942e4b9fb49d39c0f1b32fe9eeb76a",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/reparar/6a4d4d16f5a6efe9375f8a22cac23e72",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=reparar%0A&op=translate",
+    "duodef": null,
+    "english": null,
+    "parts": ""
+  },
+  "hace": {
+    "skill": "Memories-2",
+    "lexeme_id": "0e0164960281b79935a771c273da10f2",
+    "related_lexemes": [],
+    "duo": "https://preview.duolingo.com/dictionary/Spanish/hace/ce901dacf670af9ffcbcd0a838b32dbc",
+    "google": "https://translate.google.com/?sl=es&tl=en&text=hace%0A&op=translate",
+    "duodef": "ago, does, do",
+    "english": "ago, does, do",
+    "parts": ""
+  }
 }
